@@ -114,7 +114,7 @@ bBattleRoyaleMatchmakingEnabled=true
 +FrontEndPlaylistData=(PlaylistName=Playlist_Ground_Squads, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 +FrontEndPlaylistData=(PlaylistName=Playlist_WW_Duos, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 +FrontEndPlaylistData=(PlaylistName=Playlist_WW_Squads, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
-+FrontEndPlaylistData=(PlaylistName=Playlist_Gungame_Reverse, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
+
 +FrontEndPlaylistData=(PlaylistName=Playlist_Close_Squad, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Close_Duos, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 +FrontEndPlaylistData=(PlaylistName=Playlist_SolidGold_Solo, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
@@ -125,7 +125,8 @@ bBattleRoyaleMatchmakingEnabled=true
 +FrontEndPlaylistData=(PlaylistName=Playlist_Fill_Squads, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 
 +FrontEndPlaylistData=(PlaylistName=Playlist_5x20, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=19))
-+FrontEndPlaylistData=(PlaylistName=Playlist_50v50, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=19))
++FrontEndPlaylistData=(PlaylistName=Playlist_50v50, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=19))
++FrontEndPlaylistData=(PlaylistName=Playlist_Gungame_Reverse, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 
 ;Playlist syntax
 +FrontEndPlaylistData=(PlaylistName=Playlist_Music_Low, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=true, CategoryIndex=0, bDisplayAsLimitedTime=true, DisplayPriority=9))
@@ -354,8 +355,11 @@ bShowIndicatorsForSquadMembers=false
 +DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.33;Weight;0.25
 
 ;Removing the chance that the circle can end somewhere high in arsenal
++CurveTable=/Game/Athena/Playlists/gg/OverrideGameData;RowUpdate;GG.POI.Enabled.2.Sunny;0;0
 +CurveTable=/Game/Athena/Playlists/gg/OverrideGameData;RowUpdate;GG.POI.Enabled.16.Pressure;0;0
-+CurveTable=/Game/Athena/Playlists/gg/OverrideGameData;RowUpdate;GG.POI.PickedChance;0;0.99
++CurveTable=/Game/Athena/Playlists/gg/OverrideGameData;RowUpdate;GG.POI.Enabled.22.Divot;0;0
++CurveTable=/Game/Athena/Playlists/gg/OverrideGameData;RowUpdate;GG.POI.Enabled.23.Depot;0;0
++CurveTable=/Game/Athena/Playlists/gg/OverrideGameData;RowUpdate;GG.POI.PickedChance;0;1
 
 ;Adjust Storm Bubble duration from 30 to 36
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.SilverBlazer.1;0;36
