@@ -29,7 +29,7 @@ Athena.Vehicle.DisableCCDWhenKinematic=1
 Fort.SkyTubesBlockBuilding=0
 replay.UseRemoteAimSnapshotManager=1
 au.DisableADPCMSeekLock=0
-Fort.CheckTurboBuildTimerForClicking=0
+Fort.CheckTurboBuildTimerForClicking=1
 
 [/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
 bAllowControllers=true
