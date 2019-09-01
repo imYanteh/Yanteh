@@ -190,6 +190,7 @@ bBuildingPlacementTraceSkipCameraOffsetIfNotInFrontOfPlayer=false
 bClearWeaponTypeCooldownsOnAbilityFailure=false
 bLeaveDisconnectedPawnsInGame=false
 TurboBuildInterval=0.005
+TurboBuildFirstInterval=0.005
 
 [Social]
 +JoinablePlatformPairs="XBL,PSN"
@@ -367,3 +368,63 @@ bShowIndicatorsForSquadMembers=false
 
 ;VM Fix for ShieldBubble
 +DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Consumables.Rare.10;Count;2
+
+;Reenable mechs in core
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;0;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;1;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;2;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;3;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;4;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;5;-8
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;6;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;7;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;8;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;0;6
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;1;5
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;2;3
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;3;2
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;4;1
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;5;1
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;6;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;7;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;8;0
+
+;Disable mech in arena
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;0;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;1;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;2;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;3;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;4;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;5;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;6;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;7;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;8;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;0;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;1;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;2;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;3;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;4;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;5;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;6;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;7;0
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;8;0
+
+;Disable mech in tournament
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;0;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;1;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;2;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;3;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;4;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;5;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;6;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;7;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;8;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;0;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;1;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;2;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;3;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;4;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;5;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;6;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;7;0
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;8;0
