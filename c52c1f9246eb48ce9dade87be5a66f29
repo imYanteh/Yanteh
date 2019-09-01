@@ -2,6 +2,9 @@
 ;Hotfix Flag
 PreloadRevision=5
 
+;Disabling StW large party support - intended to be off until Kairos ship.  (Sit out is still disabled, so it is not obvious to players.)
+MaxPartySizeCampaign=4
+
 
 ;----- BOOLS/TOGGLES/THRESHOLDS -----
 
@@ -141,6 +144,7 @@ PlaylistCuratedContent=(("Playlist_Creative_Squad_Battle_16_A",(CuratedLinkCodes
 +CancelledEvents="ShareTheLove_Prospect_Solo_BR_Event5"
 +CancelledEvents="ShareTheLove_Contender_Solo_BR_Event5"
 +CancelledEvents="ShareTheLove_Champion_Solo_BR_Event5"
++CancelledEvents="S10_FNCS_Week3_NAE_Event1"
 
 !EventWindowsWithIndividualScoring=ClearArray
 +EventWindowsWithIndividualScoring="GauntletTest_Solo_Event1"
