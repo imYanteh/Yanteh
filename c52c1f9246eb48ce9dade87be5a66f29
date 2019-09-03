@@ -1,6 +1,6 @@
 [/Script/FortniteGame.FortRuntimeOptions]
 ;Hotfix Flag
-PreloadRevision=5
+PreloadRevision=6
 
 ;Disabling StW large party support - intended to be off until Kairos ship.  (Sit out is still disabled, so it is not obvious to players.)
 MaxPartySizeCampaign=4
@@ -115,8 +115,8 @@ ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"
 ;Publishing urls
 CheckStatusURL="https://status.epicgames.com"
 ListOfCreatorsURL=""
-STWUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-20-patch-notes"
-BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-20-patch-notes"
+STWUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-20-content-update"
+BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-20-content-update"
 
 ;----- ARRAYS AND SUCH -----
 
