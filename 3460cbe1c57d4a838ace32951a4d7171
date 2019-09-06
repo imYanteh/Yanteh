@@ -109,6 +109,7 @@ HttpRetryLimit=1
 [OnlineSubsystemMcp.OnlineIdentityMcp]
 AccountCreationUrl="/tos?client_id=`clientid&response_type=code&embedded=true"
 HttpFlushTimeout=0.0
+LoginPortalUrl="/login/`logintype?client_id=`clientid&response_type=code"
 
 [OnlineSubsystemMcp]
 bUsePartySystemV2=true
