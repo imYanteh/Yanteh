@@ -124,7 +124,7 @@ bBattleRoyaleMatchmakingEnabled=true
 +FrontEndPlaylistData=(PlaylistName=Playlist_Fill_Duos, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Fill_Squads, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 
-+FrontEndPlaylistData=(PlaylistName=Playlist_5x20, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=19))
++FrontEndPlaylistData=(PlaylistName=Playlist_5x20, PlaylistAccess=(bEnabled=True, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=19))
 
 ;Playlist syntax
 +FrontEndPlaylistData=(PlaylistName=Playlist_Music_Low, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=true, CategoryIndex=0, bDisplayAsLimitedTime=true, DisplayPriority=9))
@@ -150,7 +150,7 @@ bShouldRequestGeneralChatRooms=false
 bShouldJoinGlobalChat=false
 
 [/Script/FortniteGame.FortGlobals]
-LoginFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.1,DoNotUploadReasons=(AuthFailed_InvalidMFA,AuthFailed_RequiresMFA,AuthFailed_RefreshInvalid,ServiceUnavailable,Banned,Console_LoginFailed,AuthFailed,Console_EntitlementCheckFailed,Console_MissingAuthAssociation,Console_DuplicateAuthAssociation,Console_AddedAuthAssociation,Console_NotEntitled,Console_PatchOrUpdateRequired,Console_PrivilegeCheck,EULACheckFailed,NotEntitled,NotStarted,Pending,PlatformNotAllowed,Success))
+LoginFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.1,DoNotUploadReasons=(AuthFailed_InvalidMFA,AuthFailed_RequiresMFA,AuthFailed_RefreshInvalid,ServiceUnavailable,Banned,Console_LoginFailed,Console_EntitlementCheckFailed,Console_MissingAuthAssociation,Console_DuplicateAuthAssociation,Console_AddedAuthAssociation,Console_NotEntitled,Console_PatchOrUpdateRequired,Console_PrivilegeCheck,EULACheckFailed,NotEntitled,NotStarted,Pending,PlatformNotAllowed,Success))
 LogoutFailureOptions=(bSubmitLogs=true,bSubmitLogsDuringLogin=false,LogTailKb=300,LogSubmitChance=0.1,DoNotUploadReasons=("OnlineAccount_LostConnection"))
 bDisableTimePlayedStat=true
 bAthenaUsesSimCollision=true
@@ -427,24 +427,122 @@ bShowIndicatorsForSquadMembers=false
 +CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;7;0
 +CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;8;0
 
-;Disable ZapTrap (Core) 
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Consumables.Epic.09;Weight;0
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaHighConsumables.45;Weight;0
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDropConsumables.38;Weight;0
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.35;Weight;0
+;Enable ZapTrap (Core) 
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Consumables.Epic.09;Weight;.5
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaHighConsumables.45;Weight;.3
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDropConsumables.38;Weight;.4
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.35;Weight;.23
 
-;Disable ZapTrap (PG)
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Consumables.Epic.10;Weight;0
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaHighConsumables.44;Weight;0
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDropConsumables.38;Weight;0
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.35;Weight;0
+;Enable ZapTrap (PG)
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Consumables.Epic.10;Weight;0.5
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaHighConsumables.44;Weight;0.3
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDropConsumables.38;Weight;0.4
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.35;Weight;0.23
 
 ;Enable Zapper Trap v2
-+DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;618;bIncluded;FALSE
-
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;618;bIncluded;TRUE
 ;Enable 10.20 Prefabs & Galleries
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;3;bIncluded;TRUE
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;4;bIncluded;TRUE
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;132;bIncluded;TRUE
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;133;bIncluded;TRUE
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;134;bIncluded;TRUE
+
+;Vault Combat Shotguns (Rare,VR,SR)
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Shells.04;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Weapons.Epic.Shells.05;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Weapons.Legendary.Shells.06;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.Shotgun.16;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.Shotgun.17;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.Shotgun.18;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HighShotgun.11;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HighShotgun.12;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDrop.Weapon.Shotgun.06;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaDingo.Shell.02;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaDingo.Shell.03;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaDingo.Shell.04;Weight;0
+
+;Vault Drum Shotguns (C,UC,R)
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Weapons.Common.Shells.02;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Weapons.Uncommon.Shells.03;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Shells.05;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.Shotgun.19;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.Shotgun.20;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.Shotgun.21;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HighShotgun.14;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaDingo.Shell.06;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaFloorLoot_01;Weight;1.474
+
+;Vault Prox Launcher 
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Weapons.Epic.Rocket.07;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Weapons.Legendary.Rocket.07;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.Rocket.17;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.Rocket.18;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDrop.Weapon.Rocket.07;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaGiftBox.ProxLauncherSR.01;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaDingo.Rocket.05;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaDingo.Rocket.06;Weight;0
+
+;Unvault Suppressed AR (VR/SR) 
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Weapons.Epic.Medium.07;Weight;1
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.VendingMachine.Weapons.Legendary.Medium.04;Weight;1
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.AssaultAuto.14;Weight;0.04
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.AssaultAuto.15;Weight;0.015
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDrop.Weapon.Assault.04;Weight;1
+
+;Mech Availability Adjustments
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;0;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;1;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;2;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;3;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;4;-4
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;5;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;0;6
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;1;5
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;2;2
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;3;1
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;4;1
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;5;0
+
+;Full Auto Sniper dmg adjustments
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_R_Ore_T03;DmgPB;40
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_R_Ore_T03;DmgMid;40
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_R_Ore_T03;DmgLong;40
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_R_Ore_T03;DmgMaxRange;40
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_R_Ore_T03;EnvDmgPB;40
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_R_Ore_T03;EnvDmgMid;40
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_R_Ore_T03;EnvDmgLong;40
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_R_Ore_T03;EnvDmgMaxRange;40
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_VR_Ore_T03;DmgPB;42
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_VR_Ore_T03;DmgMid;42
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_VR_Ore_T03;DmgLong;42
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_VR_Ore_T03;DmgMaxRange;42
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_VR_Ore_T03;EnvDmgPB;42
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_VR_Ore_T03;EnvDmgMid;42
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_VR_Ore_T03;EnvDmgLong;42
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_VR_Ore_T03;EnvDmgMaxRange;42
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_SR_Ore_T03;DmgPB;44
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_SR_Ore_T03;DmgMid;44
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_SR_Ore_T03;DmgLong;44
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_SR_Ore_T03;DmgMaxRange;44
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_SR_Ore_T03;EnvDmgPB;44
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_SR_Ore_T03;EnvDmgMid;44
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_SR_Ore_T03;EnvDmgLong;44
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Sniper_Auto_Scope_Suppressed_Athena_SR_Ore_T03;EnvDmgMaxRange;44
+
+;Increase Pepper Duration
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.ForagedItems.SmallHealthSpeed.Duration;0;60
+
+;Deimos Rift Adjustments
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.PinkOatmeal.Mall.Ob.Count;0;5
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.PinkOatmeal.Mall.Ob.SpawnInterval;0;30
+
+;Reduce chance to find RL from Deimos Spawners
++DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_PinkOatmeal_Obelisk_02;Weight;0.5
++DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_PinkOatmeal_Obelisk_05;Weight;0.8
+
+;Reduced chance to find launch pads from Deimos spawners
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDropTraps.01;Weight;0.5
+
+;Reduce Shotgun LTD 
++DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaFloorLoot_01;Weight;1.474
