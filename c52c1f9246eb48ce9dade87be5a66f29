@@ -89,6 +89,9 @@ bDisableContextTutorial=false
 
 TournamentHUDPointCounterDelay=1.5f
 
+;Make ally chevrons equal to player relevancy
+FadeOutTeamIndicatorsAfter=27500
+
 ;WC Stream bools
 bEnableLiveStream=false
 bEnableLiveStreamInMatch=false
