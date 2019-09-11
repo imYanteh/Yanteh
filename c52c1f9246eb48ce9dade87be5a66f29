@@ -1,10 +1,21 @@
 [/Script/FortniteGame.FortRuntimeOptions]
 ;Hotfix Flag
-PreloadRevision=6
+PreloadRevision=7
 
 ;Disabling StW large party support - intended to be off until Kairos ship.  (Sit out is still disabled, so it is not obvious to players.)
 MaxPartySizeCampaign=4
 
+;Increase triggers/receivers channels
+NumGameplayMessageChannels=50
+
+;Make 2FA enable URL more friendly
+TurnOnMfaURL="https://fortnite.com/2fa"
+
+;Enable Community Choice Voting
+EnableCommunityVotingScreen=true
+
+;Disable "When Item Returned Transmit On" setting for Capture Item Spawner
++DisabledGameplayMessages=(MessageOwnerClassName="BP_Creative_ItemSpawner_C", MessageName="TriggerOnReturnedItem")
 
 ;----- BOOLS/TOGGLES/THRESHOLDS -----
 
@@ -118,14 +129,14 @@ ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"
 ;Publishing urls
 CheckStatusURL="https://status.epicgames.com"
 ListOfCreatorsURL=""
-STWUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-20-content-update"
-BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-20-content-update"
+STWUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-30-patch-notes"
+BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-30-patch-notes"
 
 ;----- ARRAYS AND SUCH -----
 
 +PlaylistConditionalFlags=BR_Portals_Enabled
 
-PlaylistCuratedContent=(("Playlist_Creative_Squad_Battle_16_A",(CuratedLinkCodes=("6203-8329-7460"))),("Playlist_Creative_Squad_Battle_32_A",(CuratedLinkCodes=("9756-8934-6832"))),("Playlist_Creative_Squad_Battle_16_B",(CuratedLinkCodes=("2341-9230-4626"))))
+PlaylistCuratedContent=(("Playlist_Creative_KaleTofu",(CuratedLinkCodes=("1864-6973-4302"))))
 
 +CancelledEvents="ShareTheLove_Open_Duo_NA_Event5"
 +CancelledEvents="ShareTheLove_Prospect_Duo_NA_Event5"
