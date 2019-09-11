@@ -18,8 +18,9 @@ bShowExtendedBattlePassMovie=true
 OpenTimeLimitForReplayCinematic=6.0
 OpenTimeLimitForWatchBattlePassMovie=6.0
 
+; Whether Electra can be used to stream video only for Win8 and Win10
 bDisableElectraForReplayCinematicOnWin7AndWin8=false
-bDisableElectraForReplayCinematicOnWin7=true
+bDisableElectraForReplayCinematicOnWin7=false
 
 [/Script/FortniteGame.FortBadMatchTriggers]
 bAllowForcedPerformanceReport=false
