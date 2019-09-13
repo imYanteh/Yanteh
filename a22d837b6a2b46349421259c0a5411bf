@@ -75,6 +75,7 @@
 +TextReplacements=(Category=Game, Namespace="", Key="A8530A20482788225CB8B48A5F88EAFE", NativeString="By MrSlickWillyz", LocalizedStrings=(("ar","بواسطة Mr Slick Willyz"),("en","By Mr Slick Willyz"),("de","Von Mr Slick Willyz"),("es","De Mr Slick Willyz"),("es-419","Por Mr Slick Willyz"),("fr","Par Mr Slick Willyz"),("it","di Mr Slick Willyz"),("ja","By Mr Slick Willyz"),("ko","제작자: Mr Slick Willyz"),("pl","Autor: Mr Slick Willyz"),("pt-BR","Por Mr Slick Willyz"),("ru","Автор Mr Slick Willyz"),("tr","Mr Slick Willyz tarafından yapıldı"),("zh-CN","Mr Slick Willyz"),("zh-Hant","Mr Slick Willyz")))
 +TextReplacements=(Category=Game, Namespace="", Key="0F9A05D349E7D736ED093EB0CA370504", NativeString="MrSlickWillyz", LocalizedStrings=(("ar","Mr Slick Willyz"),("en","Mr Slick Willyz"),("de","Mr Slick Willyz"),("es","Mr Slick Willyz"),("es-419","Mr Slick Willyz"),("fr","Mr Slick Willyz"),("it","Mr Slick Willyz"),("ja","Mr Slick Willyz"),("ko","Mr Slick Willyz"),("pl","Mr Slick Willyz"),("pt-BR","Mr Slick Willyz"),("ru","Mr Slick Willyz"),("tr","Mr Slick Willyz"),("zh-CN","Mr Slick Willyz"),("zh-Hant","Mr Slick Willyz")))
 
+
 [/Script/FortniteGame.FortGameInstance]
 bBattleRoyaleMatchmakingEnabled=true
 !DynamicSoundData=ClearArray
@@ -100,7 +101,7 @@ CosmeticsBlacklistedByHotfix=("AthenaPickaxe:pickaxe_id_179_starwand","AthenaPic
 
 ;Creative
 +FrontEndPlaylistData=(PlaylistName=Playlist_PlaygroundV2, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=true, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=16))
-+FrontEndPlaylistData=(PlaylistName=Playlist_Creative_KaleTofu, PlaylistAccess=(bEnabled=false, DisplayPriority=17, CategoryIndex=2))
++FrontEndPlaylistData=(PlaylistName=Playlist_Creative_KaleTofu, PlaylistAccess=(bEnabled=true, DisplayPriority=17, CategoryIndex=2))
 
 ;14 days Playlist syntax BIG TEAM ROW
 +FrontEndPlaylistData=(PlaylistName=Playlist_Respawn_24, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=8))
@@ -121,7 +122,7 @@ CosmeticsBlacklistedByHotfix=("AthenaPickaxe:pickaxe_id_179_starwand","AthenaPic
 +FrontEndPlaylistData=(PlaylistName=Playlist_SolidGold_Squads, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Sneaky_Solo, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 
-+FrontEndPlaylistData=(PlaylistName=Playlist_33, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=19))
++FrontEndPlaylistData=(PlaylistName=Playlist_33, PlaylistAccess=(bEnabled=True, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=19))
 +FrontEndPlaylistData=(PlaylistName=Playlist_50v50, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=19))
 
 ;Playlist syntax
