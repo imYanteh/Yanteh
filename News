@@ -1,7 +1,7 @@
 {
   "_title": "Fortnite Game",
   "_activeDate": "2017-07-24T22:24:02.3Z",
-  "lastModified": "2019-09-12T16:31:48.224Z",
+  "lastModified": "2019-09-12T19:24:48.536Z",
   "_locale": "fr",
   "loginmessage": {
     "_title": "Message de connexion",
@@ -2869,20 +2869,11 @@
     "news": {
       "platform_messages": [],
       "_type": "Battle Royale News",
-      "messages": [
-        {
-          "hidden": false,
-          "_type": "CommonUI Simple Message Base",
-          "subgame": "br",
-          "title": "Véhicule désactivé",
-          "body": "À cause d'un problème, nous avons temporairement désactivé le véhicule suivant : B.R.U.T.E.",
-          "spotlight": false
-        }
-      ]
+      "messages": []
     },
     "_title": "emergencynotice",
     "_activeDate": "2018-08-06T19:00:26.217Z",
-    "lastModified": "2019-09-11T14:14:11.624Z",
+    "lastModified": "2019-09-12T19:24:48.536Z",
     "_locale": "fr"
   },
   "savetheworldnews": {
@@ -9450,20 +9441,12 @@
       "_type": "Battle Royale News",
       "messages": [
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v1030/Rainy-1024x512-7f808e8ab944a78e2b8cd314bb754fb3391bf208.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v1030/Moisty-1024x512-1a1cedc5132a9b88eca469cb96654eeb7a27bb62.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "adspace": "NOUVEAU !",
-          "title": "Le blues du salon",
-          "body": "La nouvelle musique de salon Rainy Days est disponible !",
-          "spotlight": false
-        },
-        {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v1030/Choice-1024x512-08d184ab65cdc94b01783fdebf762ae60b9cb33a.jpg",
-          "hidden": false,
-          "_type": "CommonUI Simple Message Base",
-          "title": "Choix de la communauté",
-          "body": "Choisissez laquelle des trois tenues proposées fera son grand retour dans la boutique ! Consultez la boutique pour plus d'informations.",
+          "adspace": "ZONE DE FAILLE",
+          "title": "Moisty Palms",
+          "body": "Moisty est de retour pour pimenter la fin de l'été !",
           "spotlight": false
         },
         {
@@ -9473,6 +9456,15 @@
           "adspace": "NOUVEAU !",
           "title": "Pack Reflets obscurs",
           "body": "Mettez la main sur les tenues Jonesy obscur, Joker obscur et Chevaleresse rouge obscure ainsi que sur la Pioche obscure dans le pack Reflets obscurs. Disponibles dans la boutique du jeu !",
+          "spotlight": false
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v1030/Merman-1024x512-d98e87ecab06d660987b17a97a70cb8c1dd4a2b3.jpg",
+          "hidden": false,
+          "_type": "CommonUI Simple Message Base",
+          "adspace": "NOUVEAUX STYLES !",
+          "title": "Retour de l'Homme poisson",
+          "body": "L'Homme poisson revient avec de nouveaux styles ! Mettez la main dessus ainsi que sur la nouvelle tenue Pisteuse des marais dans la boutique d'objets.",
           "spotlight": false
         },
         {
