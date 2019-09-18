@@ -3,7 +3,7 @@
     "client-matchmaking": {
       "states": [
         {
-          "validFrom": "2019-09-12T19:33:48.79Z",
+          "validFrom": "2019-09-18T16:31:41.335Z",
           "activeEvents": [],
           "state": {
             "region": {
@@ -12,45 +12,42 @@
                   "Playlist_DefaultDuo"
                 ],
                 "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Duos"
+                  "Playlist_HighExplosives_Squads"
                 ]
               },
               "NAE": {
                 "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Duos"
+                  "Playlist_HighExplosives_Squads"
                 ]
               },
               "NAW": {
                 "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Duos"
+                  "Playlist_HighExplosives_Squads"
                 ]
               },
               "EU": {
                 "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Duos"
+                  "Playlist_HighExplosives_Squads"
                 ]
               },
               "BR": {
                 "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Duos"
+                  "Playlist_HighExplosives_Squads"
                 ]
               },
               "ASIA": {
                 "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Duos"
-                ],
-                "eventFlagsForcedOff": [
-                  "Playlist_DefaultDuo"
+                  "Playlist_HighExplosives_Squads"
                 ]
               },
               "NA": {
                 "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Duos"
+                  "Playlist_HighExplosives_Squads"
                 ]
               },
               "ME": {
                 "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Duos"
+                  "Playlist_HighExplosives_Squads"
                 ]
               },
               "CN": {
@@ -68,183 +65,39 @@
           }
         }
       ],
-      "cacheExpire": "2019-09-12T21:33:48.79Z"
+      "cacheExpire": "2019-09-18T18:31:41.335Z"
     },
     "tk": {
       "states": [
         {
-          "validFrom": "2019-09-12T19:33:48.79Z",
+          "validFrom": "2019-09-18T16:31:41.335Z",
           "activeEvents": [],
           "state": {
-            "k": [
-              "B9E5ABB4D4F783F13E7A32B971597F03:HGWfy8LBJu12s5HZeYTZDqP2EI3dJqPXupxd2AzYdUI=",
-              "E04FBD38CB934DB1363EF57C85E48F9F:E+/j7zhGIdHODfCdH2vh4rgGRYSssFpT/s6dlus9Csc=",
-              "B8F307A56B6EEFACD6250B2E60A24A4C:ayYSM667dKzMIvm8ZUY0F+FNlvNsg4G2RMIgi2fPf8k=",
-              "2CEE3C1783B9E41EB66238BAD32EFF23:udlTL9abg8LIGytWpERMGVEpPrj9io23R2HbINHtF3o=",
-              "65000C27C3BC5B9B904A0D20050D6B36:JFwQi7tWgJDr+E4GzYU/rgasjjk+1BKRB/N88e7rVvI=",
-              "4C546A04EB0E91B7EB4449B672B63900:RhtdrUqq3N21E77X7YatI4oX3wLYyvFH5Wm+eaUX8+w="
-            ]
+            "k": []
           }
         }
       ],
-      "cacheExpire": "2019-09-12T21:33:48.79Z"
+      "cacheExpire": "2019-09-18T18:31:41.335Z"
     },
     "community-votes": {
       "states": [
         {
-          "validFrom": "2019-09-12T19:33:48.79Z",
+          "validFrom": "2019-09-18T16:31:41.335Z",
           "activeEvents": [],
           "state": {
-            "electionId": "093rovpfeckdcpi2h7lapfp942[0]0",
-            "candidates": [
-              {
-                "devName": "[VIRTUAL]1 x Bandolier for 1500 MtxCurrency",
-                "offerId": "vote://093rovpfeckdcpi2h7lapfp942[0]:0",
-                "fulfillmentIds": [],
-                "dailyLimit": -1,
-                "weeklyLimit": -1,
-                "monthlyLimit": -1,
-                "categories": [],
-                "prices": [
-                  {
-                    "currencyType": "MtxCurrency",
-                    "currencySubType": "",
-                    "regularPrice": 1500,
-                    "finalPrice": 1500,
-                    "basePrice": 1500
-                  }
-                ],
-                "meta": {},
-                "matchFilter": "",
-                "filterWeight": 0.0,
-                "requirements": [
-                  {
-                    "requirementType": "DenyOnItemOwnership",
-                    "requiredId": "AthenaCharacter:cid_131_athena_commando_m_warpaint",
-                    "minQuantity": 1
-                  }
-                ],
-                "offerType": "StaticPrice",
-                "giftInfo": {
-                  "bIsEnabled": true,
-                  "forcedGiftBoxTemplateId": "",
-                  "purchaseRequirements": [],
-                  "giftRecordIds": []
-                },
-                "refundable": true,
-                "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_131_Athena_Commando_M_Warpaint.DA_Featured_CID_131_Athena_Commando_M_Warpaint",
-                "itemGrants": [
-                  {
-                    "templateId": "AthenaCharacter:cid_131_athena_commando_m_warpaint",
-                    "quantity": 1
-                  }
-                ],
-                "sortPriority": 0,
-                "catalogGroupPriority": 0
-              },
-              {
-                "devName": "[VIRTUAL]1 x Yee-Haw! for 1500 MtxCurrency",
-                "offerId": "vote://093rovpfeckdcpi2h7lapfp942[0]:1",
-                "fulfillmentIds": [],
-                "dailyLimit": -1,
-                "weeklyLimit": -1,
-                "monthlyLimit": -1,
-                "categories": [],
-                "prices": [
-                  {
-                    "currencyType": "MtxCurrency",
-                    "currencySubType": "",
-                    "regularPrice": 1500,
-                    "finalPrice": 1500,
-                    "basePrice": 1500
-                  }
-                ],
-                "meta": {},
-                "matchFilter": "",
-                "filterWeight": 0.0,
-                "requirements": [
-                  {
-                    "requirementType": "DenyOnItemOwnership",
-                    "requiredId": "AthenaCharacter:cid_266_athena_commando_f_llamarider",
-                    "minQuantity": 1
-                  }
-                ],
-                "offerType": "StaticPrice",
-                "giftInfo": {
-                  "bIsEnabled": true,
-                  "forcedGiftBoxTemplateId": "",
-                  "purchaseRequirements": [],
-                  "giftRecordIds": []
-                },
-                "refundable": true,
-                "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_266_Athena_Commando_F_LlamaRider.DA_Featured_CID_266_Athena_Commando_F_LlamaRider",
-                "itemGrants": [
-                  {
-                    "templateId": "AthenaCharacter:cid_266_athena_commando_f_llamarider",
-                    "quantity": 1
-                  }
-                ],
-                "sortPriority": 0,
-                "catalogGroupPriority": 0
-              },
-              {
-                "devName": "[VIRTUAL]1 x Flytrap for 2000 MtxCurrency",
-                "offerId": "vote://093rovpfeckdcpi2h7lapfp942[0]:2",
-                "fulfillmentIds": [],
-                "dailyLimit": -1,
-                "weeklyLimit": -1,
-                "monthlyLimit": -1,
-                "categories": [],
-                "prices": [
-                  {
-                    "currencyType": "MtxCurrency",
-                    "currencySubType": "",
-                    "regularPrice": 2000,
-                    "finalPrice": 2000,
-                    "basePrice": 2000
-                  }
-                ],
-                "meta": {},
-                "matchFilter": "",
-                "filterWeight": 0.0,
-                "requirements": [
-                  {
-                    "requirementType": "DenyOnItemOwnership",
-                    "requiredId": "AthenaCharacter:cid_132_athena_commando_m_venus",
-                    "minQuantity": 1
-                  }
-                ],
-                "offerType": "StaticPrice",
-                "giftInfo": {
-                  "bIsEnabled": true,
-                  "forcedGiftBoxTemplateId": "",
-                  "purchaseRequirements": [],
-                  "giftRecordIds": []
-                },
-                "refundable": true,
-                "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_132_Athena_Commando_M_Venus.DA_Featured_CID_132_Athena_Commando_M_Venus",
-                "itemGrants": [
-                  {
-                    "templateId": "AthenaCharacter:cid_132_athena_commando_m_venus",
-                    "quantity": 1
-                  }
-                ],
-                "sortPriority": 0,
-                "catalogGroupPriority": 0
-              }
-            ],
-            "electionEnds": "2019-09-14T00:00:00Z",
-            "numWinners": 1,
-            "winnerStateHours": 24
+            "electionId": "",
+            "candidates": [],
+            "electionEnds": "9999-12-31T23:59:59.999Z",
+            "numWinners": 1
           }
         }
       ],
-      "cacheExpire": "2019-09-12T21:33:48.79Z"
+      "cacheExpire": "2019-09-18T18:31:41.335Z"
     },
     "client-events": {
       "states": [
         {
-          "validFrom": "2019-09-12T19:33:48.79Z",
+          "validFrom": "2019-09-18T16:31:41.335Z",
           "activeEvents": [
             {
               "eventType": "EventFlag.Mayday",
@@ -325,6 +178,11 @@
               "eventType": "EventFlag.Season10_UrgentMission_7",
               "activeUntil": "2019-09-19T13:00:00Z",
               "activeSince": "2019-09-12T13:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.S10_Mystery",
+              "activeUntil": "2019-10-06T18:00:00Z",
+              "activeSince": "2019-09-14T13:00:00Z"
             }
           ],
           "state": {
@@ -338,6 +196,14 @@
                 "eventStart": "2019-09-12T13:00:00Z",
                 "eventEnd": "2019-09-19T13:00:00Z",
                 "eventType": "EventFlag.Season10_UrgentMission_7"
+              },
+              {
+                "instanceId": "3kepcp3fl4g60bkoi7i79787sc[2]0",
+                "devName": "Season10_Schedule_MysteryMission",
+                "eventName": "CalendarEvent_Season10_Mystery",
+                "eventStart": "2019-09-14T13:00:00Z",
+                "eventEnd": "2019-10-06T18:00:00Z",
+                "eventType": "EventFlag.S10_Mystery"
               }
             ],
             "seasonNumber": 10,
@@ -346,17 +212,17 @@
             "seasonBegin": "2019-07-30T13:00:00Z",
             "seasonEnd": "2019-10-10T14:00:00Z",
             "seasonDisplayedEnd": "2019-10-06T14:00:00Z",
-            "weeklyStoreEnd": "2019-09-13T00:00:00Z",
+            "weeklyStoreEnd": "2019-09-19T00:00:00Z",
             "stwEventStoreEnd": "2019-10-16T00:00:00Z",
             "stwWeeklyStoreEnd": "2019-09-19T00:00:00Z",
-            "dailyStoreEnd": "2019-09-13T00:00:00Z"
+            "dailyStoreEnd": "2019-09-19T00:00:00Z"
           }
         }
       ],
-      "cacheExpire": "2019-09-12T21:33:48.79Z"
+      "cacheExpire": "2019-09-18T18:31:41.335Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2019-09-12T20:03:10.818Z"
+  "currentTime": "2019-09-18T16:59:25.285Z"
 }
