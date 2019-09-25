@@ -1,7 +1,7 @@
 {
   "refreshIntervalHrs": 3,
   "dailyPurchaseHrs": 24,
-  "expiration": "2019-09-18T18:00:00Z",
+  "expiration": "2019-09-25T15:00:00Z",
   "storefronts": [
     {
       "name": "CurrencyStorefront",
@@ -268,75 +268,93 @@
       ]
     },
     {
-      "name": "BRWeeklyStorefront",
+      "name": "GiftableItems",
       "catalogEntries": [
         {
-          "devName": "[VIRTUAL]1 x Payback, 1 x Spiked Shell for 1200 MtxCurrency",
-          "offerId": "v2:/f762321cfe115ae29c6198cacf4f52a28b5ba120d504cbe90de1b922440cc52e",
-          "fulfillmentIds": [],
+          "offerId": "722DD1CF407A49449734D9B9A8033295",
+          "devName": "Glow Grant",
+          "offerType": "StaticPrice",
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "Token:giftglowtoken",
+              "regularPrice": 1,
+              "finalPrice": 1,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1
+            }
+          ],
+          "categories": [],
           "dailyLimit": -1,
           "weeklyLimit": -1,
           "monthlyLimit": -1,
-          "categories": [
-            "Panel 1"
+          "refundable": false,
+          "appStoreId": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
-          "prices": [
-            {
-              "currencyType": "MtxCurrency",
-              "currencySubType": "",
-              "regularPrice": 1200,
-              "finalPrice": 1200,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 1200
-            }
-          ],
-          "meta": {},
-          "matchFilter": "",
-          "filterWeight": 0.0,
-          "appStoreId": [],
           "requirements": [
             {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaCharacter:cid_524_athena_commando_f_futurebikerwhite",
-              "minQuantity": 1
-            },
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaBackpack:bid_351_futurebikerwhite",
+              "requirementType": "DenyOnFulfillment",
+              "requiredId": "BD04D08047CBD5B284C544A33619C860",
               "minQuantity": 1
             }
           ],
-          "offerType": "StaticPrice",
+          "metaInfo": [
+            {
+              "key": "TokenOffer",
+              "value": "02A0B24240C2528B435EF4817E89070F"
+            },
+            {
+              "key": "bIgnoreGiftLimit",
+              "value": "true"
+            },
+            {
+              "key": "bIgnoreFriendTimeReq",
+              "value": "true"
+            }
+          ],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 0,
+          "title": "Extase",
+          "shortDescription": "",
+          "description": "Ô temps, suspends ton vol.",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_479_Athena_Commando_F_Davinci.DA_Featured_CID_479_Athena_Commando_F_Davinci",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_479_athena_commando_f_davinci",
+              "quantity": 1
+            }
+          ],
           "giftInfo": {
             "bIsEnabled": true,
             "forcedGiftBoxTemplateId": "",
-            "purchaseRequirements": [],
-            "giftRecordIds": []
-          },
-          "refundable": true,
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_524_Athena_Commando_F_FutureBikerWhite.DA_Featured_CID_524_Athena_Commando_F_FutureBikerWhite",
-          "itemGrants": [
-            {
-              "templateId": "AthenaCharacter:cid_524_athena_commando_f_futurebikerwhite",
-              "quantity": 1
-            },
-            {
-              "templateId": "AthenaBackpack:bid_351_futurebikerwhite",
-              "quantity": 1
-            }
-          ],
-          "sortPriority": -1,
-          "catalogGroupPriority": 0
-        },
+            "purchaseRequirements": []
+          }
+        }
+      ]
+    },
+    {
+      "name": "BRWeeklyStorefront",
+      "catalogEntries": [
         {
-          "devName": "[VIRTUAL]1 x Chained Cleaver for 800 MtxCurrency",
-          "offerId": "v2:/31d846774c039d7d8555d14cb2ad1322e76b2192941e7035a2e3173a95b417c9",
+          "devName": "[VIRTUAL]1 x Oktoberfeast for 800 MtxCurrency",
+          "offerId": "v2:/844529299187ccfc85bad21925695fa2eeb1e1b53a39bf5c8569704d5701a58e",
           "fulfillmentIds": [],
           "dailyLimit": -1,
           "weeklyLimit": -1,
           "monthlyLimit": -1,
           "categories": [
-            "Panel 1"
+            "Panel 3"
           ],
           "prices": [
             {
@@ -357,7 +375,7 @@
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaPickaxe:pickaxe_id_262_futurebikerwhite",
+              "requiredId": "AthenaGlider:glider_id_077_octoberfest",
               "minQuantity": 1
             }
           ],
@@ -375,100 +393,34 @@
               "value": "CollectTheSet"
             }
           ],
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_262_FutureBikerWhite.DA_Featured_Pickaxe_ID_262_FutureBikerWhite",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Glider_ID_077_Octoberfest.DA_Featured_Glider_ID_077_Octoberfest",
           "itemGrants": [
             {
-              "templateId": "AthenaPickaxe:pickaxe_id_262_futurebikerwhite",
+              "templateId": "AthenaGlider:glider_id_077_octoberfest",
               "quantity": 1
             }
           ],
-          "sortPriority": -2,
+          "sortPriority": -14,
           "catalogGroupPriority": 0
         },
         {
-          "devName": "[VIRTUAL]1 x Bravo Leader, 1 x Tri-Pack for 1200 MtxCurrency",
-          "offerId": "v2:/a34788a12a57cb3b0d3a151959aa6920d9c3858debd2e2ea171d0fbccc46d909",
+          "devName": "[VIRTUAL]1 x Ludwig, 1 x Clockworks for 1500 MtxCurrency",
+          "offerId": "v2:/85467cb20fdcf04860625ff3d998835acca0223e61c00ec552d742d6e3c401d2",
           "fulfillmentIds": [],
           "dailyLimit": -1,
           "weeklyLimit": -1,
           "monthlyLimit": -1,
           "categories": [
-            "Panel 2"
+            "Panel 3"
           ],
           "prices": [
             {
               "currencyType": "MtxCurrency",
               "currencySubType": "",
-              "regularPrice": 1200,
-              "finalPrice": 1200,
+              "regularPrice": 1500,
+              "finalPrice": 1500,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 1200
-            }
-          ],
-          "meta": {
-            "BannerOverride": "SelectableStyles"
-          },
-          "matchFilter": "",
-          "filterWeight": 0.0,
-          "appStoreId": [],
-          "requirements": [
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaCharacter:cid_490_athena_commando_m_bluebadass",
-              "minQuantity": 1
-            },
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaBackpack:bid_324_bluebadass",
-              "minQuantity": 1
-            }
-          ],
-          "offerType": "StaticPrice",
-          "giftInfo": {
-            "bIsEnabled": true,
-            "forcedGiftBoxTemplateId": "",
-            "purchaseRequirements": [],
-            "giftRecordIds": []
-          },
-          "refundable": true,
-          "metaInfo": [
-            {
-              "key": "BannerOverride",
-              "value": "SelectableStyles"
-            }
-          ],
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_490_Athena_Commando_M_BlueBadass.DA_Featured_CID_490_Athena_Commando_M_BlueBadass",
-          "itemGrants": [
-            {
-              "templateId": "AthenaCharacter:cid_490_athena_commando_m_bluebadass",
-              "quantity": 1
-            },
-            {
-              "templateId": "AthenaBackpack:bid_324_bluebadass",
-              "quantity": 1
-            }
-          ],
-          "sortPriority": -7,
-          "catalogGroupPriority": 0
-        },
-        {
-          "devName": "[VIRTUAL]1 x Rivet for 300 MtxCurrency",
-          "offerId": "v2:/4a0d4e272996c2ecb498d36b0ba9ac2f39665a3171b28eef1965998a8482bb23",
-          "fulfillmentIds": [],
-          "dailyLimit": -1,
-          "weeklyLimit": -1,
-          "monthlyLimit": -1,
-          "categories": [
-            "Panel 2"
-          ],
-          "prices": [
-            {
-              "currencyType": "MtxCurrency",
-              "currencySubType": "",
-              "regularPrice": 300,
-              "finalPrice": 300,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 300
+              "basePrice": 1500
             }
           ],
           "meta": {},
@@ -478,7 +430,12 @@
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaItemWrap:wrap_034_waypoint",
+              "requiredId": "AthenaCharacter:cid_225_athena_commando_m_octoberfest",
+              "minQuantity": 1
+            },
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaBackpack:bid_117_octoberfestmale",
               "minQuantity": 1
             }
           ],
@@ -490,19 +447,23 @@
             "giftRecordIds": []
           },
           "refundable": true,
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Wrap_034_Waypoint.DA_Featured_Wrap_034_Waypoint",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_225_Athena_Commando_M_Octoberfest.DA_Featured_CID_225_Athena_Commando_M_Octoberfest",
           "itemGrants": [
             {
-              "templateId": "AthenaItemWrap:wrap_034_waypoint",
+              "templateId": "AthenaCharacter:cid_225_athena_commando_m_octoberfest",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaBackpack:bid_117_octoberfestmale",
               "quantity": 1
             }
           ],
-          "sortPriority": -9,
+          "sortPriority": -12,
           "catalogGroupPriority": 0
         },
         {
-          "devName": "[VIRTUAL]1 x Waypoint, 1 x Signal Hub for 1200 MtxCurrency",
-          "offerId": "v2:/274b15580a62f6c5613d9242527328ada30ac98b1907b0dbdb51775ee6fca7e4",
+          "devName": "[VIRTUAL]1 x Nite Flight for 800 MtxCurrency",
+          "offerId": "v2:/a73e60dd38121ea9447102380dbd7b052a00f5a3b05c15d356cd283d0c41e59d",
           "fulfillmentIds": [],
           "dailyLimit": -1,
           "weeklyLimit": -1,
@@ -514,14 +475,14 @@
             {
               "currencyType": "MtxCurrency",
               "currencySubType": "",
-              "regularPrice": 1200,
-              "finalPrice": 1200,
+              "regularPrice": 800,
+              "finalPrice": 800,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 1200
+              "basePrice": 800
             }
           ],
           "meta": {
-            "BannerOverride": "SelectableStyles"
+            "BannerOverride": "New"
           },
           "matchFilter": "",
           "filterWeight": 0.0,
@@ -529,12 +490,7 @@
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaCharacter:cid_290_athena_commando_f_bluebadass",
-              "minQuantity": 1
-            },
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaBackpack:bid_165_bluebadassfemale",
+              "requiredId": "AthenaGlider:glider_id_174_sleepytime",
               "minQuantity": 1
             }
           ],
@@ -549,32 +505,85 @@
           "metaInfo": [
             {
               "key": "BannerOverride",
-              "value": "SelectableStyles"
+              "value": "New"
             }
           ],
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_290_Athena_Commando_F_BlueBadass.DA_Featured_CID_290_Athena_Commando_F_BlueBadass",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Glider_ID_174_SleepyTime.DA_Featured_Glider_ID_174_SleepyTime",
           "itemGrants": [
             {
-              "templateId": "AthenaCharacter:cid_290_athena_commando_f_bluebadass",
-              "quantity": 1
-            },
-            {
-              "templateId": "AthenaBackpack:bid_165_bluebadassfemale",
+              "templateId": "AthenaGlider:glider_id_174_sleepytime",
               "quantity": 1
             }
           ],
-          "sortPriority": -6,
+          "sortPriority": -7,
           "catalogGroupPriority": 0
         },
         {
-          "devName": "[VIRTUAL]1 x Angled Fire for 500 MtxCurrency",
-          "offerId": "v2:/c041af51c2eb559b8989390bd55353d4e3a1a824c35b1ceb4d1724328d1871ee",
+          "devName": "[VIRTUAL]1 x Axcordion for 500 MtxCurrency",
+          "offerId": "v2:/32c71cb0697b43991d68e77aaf7b6a9aef396b082000345e261692c3e4d269ca",
           "fulfillmentIds": [],
           "dailyLimit": -1,
           "weeklyLimit": -1,
           "monthlyLimit": -1,
           "categories": [
             "Panel 3"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 500,
+              "finalPrice": 500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 500
+            }
+          ],
+          "meta": {
+            "BannerOverride": "CollectTheSet"
+          },
+          "matchFilter": "",
+          "filterWeight": 0.0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:pickaxe_id_101_octoberfest",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "BannerOverride",
+              "value": "CollectTheSet"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_101_Octoberfest.DA_Featured_Pickaxe_ID_101_Octoberfest",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:pickaxe_id_101_octoberfest",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": -13,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Dreamy for 500 MtxCurrency",
+          "offerId": "v2:/c0501b567a8ce6733f4333539b705e71bb2fcc19bda1028f97324b8e6167afb4",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 2"
           ],
           "prices": [
             {
@@ -595,7 +604,7 @@
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaItemWrap:wrap_124_syko",
+              "requiredId": "AthenaItemWrap:wrap_137_sleepytime",
               "minQuantity": 1
             }
           ],
@@ -613,59 +622,10 @@
               "value": "Animated"
             }
           ],
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Wrap_124_Syko.DA_Featured_Wrap_124_Syko",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Wrap_137_SleepyTime.DA_Featured_Wrap_137_SleepyTime",
           "itemGrants": [
             {
-              "templateId": "AthenaItemWrap:wrap_124_syko",
-              "quantity": 1
-            }
-          ],
-          "sortPriority": -13,
-          "catalogGroupPriority": 0
-        },
-        {
-          "devName": "[VIRTUAL]1 x Tac Bats for 500 MtxCurrency",
-          "offerId": "v2:/8f279a70496e817094bc4c3cd0aa0e034f5d4f8ab17d27a48dd963bd6937aa24",
-          "fulfillmentIds": [],
-          "dailyLimit": -1,
-          "weeklyLimit": -1,
-          "monthlyLimit": -1,
-          "categories": [
-            "Panel 2"
-          ],
-          "prices": [
-            {
-              "currencyType": "MtxCurrency",
-              "currencySubType": "",
-              "regularPrice": 500,
-              "finalPrice": 500,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 500
-            }
-          ],
-          "meta": {},
-          "matchFilter": "",
-          "filterWeight": 0.0,
-          "appStoreId": [],
-          "requirements": [
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaPickaxe:pickaxe_id_246_bluebadass1h",
-              "minQuantity": 1
-            }
-          ],
-          "offerType": "StaticPrice",
-          "giftInfo": {
-            "bIsEnabled": true,
-            "forcedGiftBoxTemplateId": "",
-            "purchaseRequirements": [],
-            "giftRecordIds": []
-          },
-          "refundable": true,
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_246_BlueBadass1H.DA_Featured_Pickaxe_ID_246_BlueBadass1H",
-          "itemGrants": [
-            {
-              "templateId": "AthenaPickaxe:pickaxe_id_246_bluebadass1h",
+              "templateId": "AthenaItemWrap:wrap_137_sleepytime",
               "quantity": 1
             }
           ],
@@ -673,8 +633,8 @@
           "catalogGroupPriority": 0
         },
         {
-          "devName": "[VIRTUAL]1 x Oppressor, 1 x Exo-Spine for 2000 MtxCurrency",
-          "offerId": "v2:/eb6e66acca539d86ba532a6fee154c1339b3ccdd3eb8debd9496e764892a415f",
+          "devName": "[VIRTUAL]1 x Heidi, 1 x Pretzel Protector for 1500 MtxCurrency",
+          "offerId": "v2:/25e51f7413a6faea600b0ea99994382a125ef542a582109a75e0c2e7359f2d75",
           "fulfillmentIds": [],
           "dailyLimit": -1,
           "weeklyLimit": -1,
@@ -686,14 +646,74 @@
             {
               "currencyType": "MtxCurrency",
               "currencySubType": "",
-              "regularPrice": 2000,
-              "finalPrice": 2000,
+              "regularPrice": 1500,
+              "finalPrice": 1500,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 2000
+              "basePrice": 1500
+            }
+          ],
+          "meta": {},
+          "matchFilter": "",
+          "filterWeight": 0.0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_226_athena_commando_f_octoberfest",
+              "minQuantity": 1
+            },
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaBackpack:bid_118_octoberfestfemale",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_226_Athena_Commando_F_Octoberfest.DA_Featured_CID_226_Athena_Commando_F_Octoberfest",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_226_athena_commando_f_octoberfest",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaBackpack:bid_118_octoberfestfemale",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": -11,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Slumber , 1 x Dreamer for 1500 MtxCurrency",
+          "offerId": "v2:/063ce5ebca44ab408f9b273e5f561249a825a2b7ad30eb6d366e76561534b5ae",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 1"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 1500,
+              "finalPrice": 1500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1500
             }
           ],
           "meta": {
-            "BannerOverride": "SelectableStyles"
+            "BannerOverride": "New",
+            "StoreToastHeader": "New",
+            "StoreToastBody": "SetAvailableNow"
           },
           "matchFilter": "",
           "filterWeight": 0.0,
@@ -701,12 +721,12 @@
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaCharacter:cid_508_athena_commando_m_syko",
+              "requiredId": "AthenaCharacter:cid_531_athena_commando_m_sleepytime",
               "minQuantity": 1
             },
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaBackpack:bid_339_syko",
+              "requiredId": "AthenaBackpack:bid_357_sleepytime",
               "minQuantity": 1
             }
           ],
@@ -721,32 +741,40 @@
           "metaInfo": [
             {
               "key": "BannerOverride",
-              "value": "SelectableStyles"
+              "value": "New"
+            },
+            {
+              "key": "StoreToastHeader",
+              "value": "New"
+            },
+            {
+              "key": "StoreToastBody",
+              "value": "SetAvailableNow"
             }
           ],
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_508_Athena_Commando_M_Syko.DA_Featured_CID_508_Athena_Commando_M_Syko",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_531_Athena_Commando_M_SleepyTime.DA_Featured_CID_531_Athena_Commando_M_SleepyTime",
           "itemGrants": [
             {
-              "templateId": "AthenaCharacter:cid_508_athena_commando_m_syko",
+              "templateId": "AthenaCharacter:cid_531_athena_commando_m_sleepytime",
               "quantity": 1
             },
             {
-              "templateId": "AthenaBackpack:bid_339_syko",
+              "templateId": "AthenaBackpack:bid_357_sleepytime",
               "quantity": 1
             }
           ],
-          "sortPriority": -11,
+          "sortPriority": -1,
           "catalogGroupPriority": 0
         },
         {
-          "devName": "[VIRTUAL]1 x Plasmatic Edge for 800 MtxCurrency",
-          "offerId": "v2:/94ee15fda42fe1bad7b7b4450fdae34a215e70d2b836595486a3b77e6f9c08a5",
+          "devName": "[VIRTUAL]1 x Nighty Night for 800 MtxCurrency",
+          "offerId": "v2:/c79c0a98681c3314e9d86997f502e8dc4c4c90dfd6ef16fc80f70150aa42b092",
           "fulfillmentIds": [],
           "dailyLimit": -1,
           "weeklyLimit": -1,
           "monthlyLimit": -1,
           "categories": [
-            "Panel 3"
+            "Panel 2"
           ],
           "prices": [
             {
@@ -759,7 +787,7 @@
             }
           ],
           "meta": {
-            "BannerOverride": "SelectableStyles"
+            "BannerOverride": "New"
           },
           "matchFilter": "",
           "filterWeight": 0.0,
@@ -767,7 +795,7 @@
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaPickaxe:pickaxe_id_254_syko",
+              "requiredId": "AthenaPickaxe:pickaxe_id_272_sleepytime",
               "minQuantity": 1
             }
           ],
@@ -782,17 +810,17 @@
           "metaInfo": [
             {
               "key": "BannerOverride",
-              "value": "SelectableStyles"
+              "value": "New"
             }
           ],
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_254_Syko.DA_Featured_Pickaxe_ID_254_Syko",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_272_SleepyTime.DA_Featured_Pickaxe_ID_272_SleepyTime",
           "itemGrants": [
             {
-              "templateId": "AthenaPickaxe:pickaxe_id_254_syko",
+              "templateId": "AthenaPickaxe:pickaxe_id_272_sleepytime",
               "quantity": 1
             }
           ],
-          "sortPriority": -12,
+          "sortPriority": -6,
           "catalogGroupPriority": 0
         }
       ]
@@ -1428,6 +1456,68 @@
       ]
     },
     {
+      "name": "CreativeZoneWarsStorefront",
+      "catalogEntries": []
+    },
+    {
+      "name": "TokensForGiftableItems",
+      "catalogEntries": [
+        {
+          "offerId": "02A0B24240C2528B435EF4817E89070F",
+          "devName": "Glow Select",
+          "offerType": "StaticPrice",
+          "prices": [
+            {
+              "currencyType": "RealMoney",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 0
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": false,
+          "appStoreId": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "requirements": [
+            {
+              "requirementType": "DenyOnFulfillment",
+              "requiredId": "230FA67742DD9570005A8C82D81A33FC",
+              "minQuantity": 1
+            }
+          ],
+          "metaInfo": [],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 0,
+          "title": "Extase",
+          "shortDescription": "",
+          "description": "Ô temps, suspends ton vol.",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_479_Athena_Commando_F_Davinci.DA_Featured_CID_479_Athena_Commando_F_Davinci",
+          "itemGrants": [
+            {
+              "templateId": "Token:giftglowtoken",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "CreativeEventStorefront",
       "catalogEntries": []
     },
@@ -1960,266 +2050,8 @@
       "name": "BRDailyStorefront",
       "catalogEntries": [
         {
-          "devName": "[VIRTUAL]1 x Lil Whip, 1 x Sno Cone for 1500 MtxCurrency",
-          "offerId": "v2:/3ef27a2d4ae0ef8c523608d2fb8f1e5f7f5e3edac55a248f64b7167539d150b1",
-          "fulfillmentIds": [],
-          "dailyLimit": -1,
-          "weeklyLimit": -1,
-          "monthlyLimit": -1,
-          "categories": [],
-          "prices": [
-            {
-              "currencyType": "MtxCurrency",
-              "currencySubType": "",
-              "regularPrice": 1500,
-              "finalPrice": 1500,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 1500
-            }
-          ],
-          "meta": {},
-          "matchFilter": "",
-          "filterWeight": 0.0,
-          "appStoreId": [],
-          "requirements": [
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaCharacter:cid_344_athena_commando_m_icecream",
-              "minQuantity": 1
-            },
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaBackpack:bid_213_icecream",
-              "minQuantity": 1
-            }
-          ],
-          "offerType": "StaticPrice",
-          "giftInfo": {
-            "bIsEnabled": true,
-            "forcedGiftBoxTemplateId": "",
-            "purchaseRequirements": [],
-            "giftRecordIds": []
-          },
-          "refundable": true,
-          "itemGrants": [
-            {
-              "templateId": "AthenaCharacter:cid_344_athena_commando_m_icecream",
-              "quantity": 1
-            },
-            {
-              "templateId": "AthenaBackpack:bid_213_icecream",
-              "quantity": 1
-            }
-          ],
-          "sortPriority": 0,
-          "catalogGroupPriority": 0
-        },
-        {
-          "devName": "[VIRTUAL]1 x Wiggle Wild for 200 MtxCurrency",
-          "offerId": "v2:/3358d4d755df5347aeb13345a4b8500d21b7e57997d1f9d8cebf5a7342af73b8",
-          "fulfillmentIds": [],
-          "dailyLimit": -1,
-          "weeklyLimit": -1,
-          "monthlyLimit": -1,
-          "categories": [],
-          "prices": [
-            {
-              "currencyType": "MtxCurrency",
-              "currencySubType": "",
-              "regularPrice": 200,
-              "finalPrice": 200,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 200
-            }
-          ],
-          "meta": {
-            "BannerOverride": "New",
-            "StoreToastHeader": "New",
-            "StoreToastBody": "ItemAvailableNow"
-          },
-          "matchFilter": "",
-          "filterWeight": 0.0,
-          "appStoreId": [],
-          "requirements": [
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaMusicPack:musicpack_029_wiggle",
-              "minQuantity": 1
-            }
-          ],
-          "offerType": "StaticPrice",
-          "giftInfo": {
-            "bIsEnabled": true,
-            "forcedGiftBoxTemplateId": "",
-            "purchaseRequirements": [],
-            "giftRecordIds": []
-          },
-          "refundable": true,
-          "metaInfo": [
-            {
-              "key": "BannerOverride",
-              "value": "New"
-            },
-            {
-              "key": "StoreToastHeader",
-              "value": "New"
-            },
-            {
-              "key": "StoreToastBody",
-              "value": "ItemAvailableNow"
-            }
-          ],
-          "itemGrants": [
-            {
-              "templateId": "AthenaMusicPack:musicpack_029_wiggle",
-              "quantity": 1
-            }
-          ],
-          "sortPriority": 0,
-          "catalogGroupPriority": 0
-        },
-        {
-          "devName": "[VIRTUAL]1 x Rock Paper Scissors for 200 MtxCurrency",
-          "offerId": "v2:/b0fa202dba84f503c3e1f95e1fbbe35706aa35cb4cb714fbf9fb306fcdac1e57",
-          "fulfillmentIds": [],
-          "dailyLimit": -1,
-          "weeklyLimit": -1,
-          "monthlyLimit": -1,
-          "categories": [],
-          "prices": [
-            {
-              "currencyType": "MtxCurrency",
-              "currencySubType": "",
-              "regularPrice": 200,
-              "finalPrice": 200,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 200
-            }
-          ],
-          "meta": {},
-          "matchFilter": "",
-          "filterWeight": 0.0,
-          "appStoreId": [],
-          "requirements": [
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaDance:eid_rockpaperscissors",
-              "minQuantity": 1
-            }
-          ],
-          "offerType": "StaticPrice",
-          "giftInfo": {
-            "bIsEnabled": true,
-            "forcedGiftBoxTemplateId": "",
-            "purchaseRequirements": [],
-            "giftRecordIds": []
-          },
-          "refundable": true,
-          "itemGrants": [
-            {
-              "templateId": "AthenaDance:eid_rockpaperscissors",
-              "quantity": 1
-            }
-          ],
-          "sortPriority": 0,
-          "catalogGroupPriority": 0
-        },
-        {
-          "devName": "[VIRTUAL]1 x Electro Shuffle for 800 MtxCurrency",
-          "offerId": "v2:/a9844048043a3919b294c56cb4523fd94953755f3e640b10c66bf1daf3ddfa51",
-          "fulfillmentIds": [],
-          "dailyLimit": -1,
-          "weeklyLimit": -1,
-          "monthlyLimit": -1,
-          "categories": [],
-          "prices": [
-            {
-              "currencyType": "MtxCurrency",
-              "currencySubType": "",
-              "regularPrice": 800,
-              "finalPrice": 800,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 800
-            }
-          ],
-          "meta": {},
-          "matchFilter": "",
-          "filterWeight": 0.0,
-          "appStoreId": [],
-          "requirements": [
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaDance:eid_electroshuffle",
-              "minQuantity": 1
-            }
-          ],
-          "offerType": "StaticPrice",
-          "giftInfo": {
-            "bIsEnabled": true,
-            "forcedGiftBoxTemplateId": "",
-            "purchaseRequirements": [],
-            "giftRecordIds": []
-          },
-          "refundable": true,
-          "itemGrants": [
-            {
-              "templateId": "AthenaDance:eid_electroshuffle",
-              "quantity": 1
-            }
-          ],
-          "sortPriority": 0,
-          "catalogGroupPriority": 0
-        },
-        {
-          "devName": "[VIRTUAL]1 x B.R.U.T.E. Gunner for 800 MtxCurrency",
-          "offerId": "v2:/9995a92b3a6bb65197fc9babe06736789370d6feaedb52d2497028cd71ff0933",
-          "fulfillmentIds": [],
-          "dailyLimit": -1,
-          "weeklyLimit": -1,
-          "monthlyLimit": -1,
-          "categories": [],
-          "prices": [
-            {
-              "currencyType": "MtxCurrency",
-              "currencySubType": "",
-              "regularPrice": 800,
-              "finalPrice": 800,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 800
-            }
-          ],
-          "meta": {},
-          "matchFilter": "",
-          "filterWeight": 0.0,
-          "appStoreId": [],
-          "requirements": [
-            {
-              "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaCharacter:cid_495_athena_commando_f_mechpilotshark",
-              "minQuantity": 1
-            }
-          ],
-          "offerType": "StaticPrice",
-          "giftInfo": {
-            "bIsEnabled": true,
-            "forcedGiftBoxTemplateId": "",
-            "purchaseRequirements": [],
-            "giftRecordIds": []
-          },
-          "refundable": true,
-          "displayAssetPath": "None",
-          "itemGrants": [
-            {
-              "templateId": "AthenaCharacter:cid_495_athena_commando_f_mechpilotshark",
-              "quantity": 1
-            }
-          ],
-          "sortPriority": 0,
-          "catalogGroupPriority": 0
-        },
-        {
-          "devName": "[VIRTUAL]1 x Work It Out for 500 MtxCurrency",
-          "offerId": "v2:/16d2050fdb0534dde5807b86304071149dbb51c15620a0f6236c594f945bd6a5",
+          "devName": "[VIRTUAL]1 x Jitterbug for 500 MtxCurrency",
+          "offerId": "v2:/334e12fbef16cf77234b54d85da82bd39b23ec80176323536ce51139c1faa729",
           "fulfillmentIds": [],
           "dailyLimit": -1,
           "weeklyLimit": -1,
@@ -2242,7 +2074,7 @@
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaDance:eid_aerobics",
+              "requiredId": "AthenaDance:eid_swingdance",
               "minQuantity": 1
             }
           ],
@@ -2256,7 +2088,287 @@
           "refundable": true,
           "itemGrants": [
             {
-              "templateId": "AthenaDance:eid_aerobics",
+              "templateId": "AthenaDance:eid_swingdance",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Peekaboo, 1 x Battle Balloon for 1500 MtxCurrency",
+          "offerId": "v2:/d7b6939d033b9d3566add21d8932b583622bcecddaea59a9ab9780086d558615",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 1500,
+              "finalPrice": 1500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1500
+            }
+          ],
+          "meta": {
+            "BannerOverride": "SelectableStyles"
+          },
+          "matchFilter": "",
+          "filterWeight": 0.0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_220_athena_commando_f_clown",
+              "minQuantity": 1
+            },
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaBackpack:bid_111_clownfemale",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "BannerOverride",
+              "value": "SelectableStyles"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_220_athena_commando_f_clown",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaBackpack:bid_111_clownfemale",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Batsickle for 800 MtxCurrency",
+          "offerId": "v2:/4c407b937a436a4af2dc3230eb0e92bdc4bfa0411e3c4cc7c5948d9cb8ce1e9d",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {},
+          "matchFilter": "",
+          "filterWeight": 0.0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:sicklebatpickaxe",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:sicklebatpickaxe",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Best Buds for 200 MtxCurrency",
+          "offerId": "v2:/6dd04aa0bedb085d519edcdd4554dd01c7c57750504eede9905958333d8357ce",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 200,
+              "finalPrice": 200,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 200
+            }
+          ],
+          "meta": {
+            "BannerOverride": "New"
+          },
+          "matchFilter": "",
+          "filterWeight": 0.0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaMusicPack:musicpack_020_bunkerjam",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "BannerOverride",
+              "value": "New"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "AthenaMusicPack:musicpack_020_bunkerjam",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Rage Quit for 200 MtxCurrency",
+          "offerId": "v2:/3a2ecd077078344a1e6d3901a340da8c1f7fb90013bd5a79bbee239296f6ff2b",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 200,
+              "finalPrice": 200,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 200
+            }
+          ],
+          "meta": {
+            "BannerOverride": "New"
+          },
+          "matchFilter": "",
+          "filterWeight": 0.0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaDance:eid_ragequit",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "BannerOverride",
+              "value": "New"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "AthenaDance:eid_ragequit",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Nite Nite, 1 x Balloon Llama for 1500 MtxCurrency",
+          "offerId": "v2:/d13077c54c8bb7236dcaf173abaea9fd20ccc3108080ffb048b2c53d329b6396",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 1500,
+              "finalPrice": 1500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1500
+            }
+          ],
+          "meta": {
+            "BannerOverride": "SelectableStyles"
+          },
+          "matchFilter": "",
+          "filterWeight": 0.0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_221_athena_commando_m_clown",
+              "minQuantity": 1
+            },
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaBackpack:bid_112_clownmale",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "BannerOverride",
+              "value": "SelectableStyles"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_221_athena_commando_m_clown",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaBackpack:bid_112_clownmale",
               "quantity": 1
             }
           ],
@@ -2804,8 +2916,8 @@
           ]
         },
         {
-          "devName": "[VIRTUAL]1 x Legendary Troll Stash Llama for 500 GameItem : AccountResource:currency_xrayllama500 MtxCurrency",
-          "offerId": "8B0957E055C44B919E843044297B1F0E",
+          "devName": "[VIRTUAL]1 x Super Melee Llama for 1000 GameItem : AccountResource:currency_xrayllama1000 MtxCurrency",
+          "offerId": "5B90AF29591344E8B74C34A134318FC5",
           "fulfillmentIds": [],
           "dailyLimit": -1,
           "weeklyLimit": -1,
@@ -2815,26 +2927,26 @@
             {
               "currencyType": "GameItem",
               "currencySubType": "AccountResource:currency_xrayllama",
-              "regularPrice": 500,
-              "finalPrice": 500,
+              "regularPrice": 1000,
+              "finalPrice": 1000,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 500
+              "basePrice": 1000
             },
             {
               "currencyType": "MtxCurrency",
               "currencySubType": "",
-              "regularPrice": 500,
-              "finalPrice": 500,
+              "regularPrice": 1000,
+              "finalPrice": 1000,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 500
+              "basePrice": 1000
             }
           ],
           "meta": {
             "MaxConcurrentPurchases": "1",
             "Preroll": "True",
             "ProfileId": "campaign",
-            "EventLimit": "4",
-            "PurchaseLimitingEventId": "8p0iaok3lq626vcifufii3vj4g[0]164"
+            "EventLimit": "2",
+            "PurchaseLimitingEventId": "8p0iaok3lq626vcifufii3vj4g[0]171"
           },
           "matchFilter": "",
           "filterWeight": 0.0,
@@ -2857,23 +2969,23 @@
             },
             {
               "key": "EventLimit",
-              "value": "4"
+              "value": "2"
             },
             {
               "key": "PurchaseLimitingEventId",
-              "value": "8p0iaok3lq626vcifufii3vj4g[0]164"
+              "value": "8p0iaok3lq626vcifufii3vj4g[0]171"
             }
           ],
-          "displayAssetPath": "/Game/Items/CardPacks/CardPack_Jackpot.CardPack_Jackpot",
+          "displayAssetPath": "/Game/Items/CardPacks/CardPack_Rare_Melee.CardPack_Rare_Melee",
           "itemGrants": [
             {
-              "templateId": "CardPack:cardpack_jackpot",
+              "templateId": "CardPack:cardpack_rare_melee",
               "quantity": 1
             }
           ],
           "sortPriority": 0,
           "catalogGroup": "Shared",
-          "catalogGroupPriority": 2,
+          "catalogGroupPriority": 3,
           "fulfillmentClass": "com.epicgames.fortnite.core.game.fulfillments.PrerollFulfillment"
         }
       ]
@@ -2881,6 +2993,64 @@
     {
       "name": "BRSeason9",
       "catalogEntries": [
+        {
+          "offerId": "73E6EE6F4526EF97450D1592C3DB0EF5",
+          "devName": "BR.Season9.BattlePass.01",
+          "offerType": "StaticPrice",
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 950,
+              "finalPrice": 950,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 950
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": false,
+          "appStoreId": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "requirements": [
+            {
+              "requirementType": "DenyOnFulfillment",
+              "requiredId": "73E6EE6F4526EF97450D1592C3DB0EF5",
+              "minQuantity": 1
+            }
+          ],
+          "metaInfo": [
+            {
+              "key": "Preroll",
+              "value": "False"
+            }
+          ],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 1,
+          "title": "Passe de combat",
+          "shortDescription": "Saison 9",
+          "description": "Saison 9 : jusqu'au 1er août\n\nRecevez immédiatement ces objets <Bold>d'une valeur supérieure à 3500 V-bucks</>.\n  • Tenue évolutive <ItemName>Rox</>\n  • Tenue <ItemName>Sentinelle</>\n  • Bonus d'EXP de saison de 50%\n  • Bonus d'EXP de saison de 10% pour des amis\n  • <Bold>Des défis hebdomadaires supplémentaires</>\n\nJouez pour augmenter le niveau de votre Passe de combat et déverrouiller <Bold>plus de 100 récompenses</> (nécessitant de 75 à 150 heures de jeu).\n  • <ItemName>Jonesy du bunker</> plus <Bold>4 autres tenues</>\n  • <Bold>1300 V-bucks</>\n  • 7 emotes\n  • 6 revêtements\n  • 7 outils de collecte\n  • 1 compagnon\n  • 4 planeurs\n  • 6 accessoires de dos\n  • 5 traînées de condensation\n  • 13 aérosols\n  • 3 pistes musicales\n  • 1 jouet\n  • 20 écrans de chargement\n  • Et plus !\nEnvie d'aller plus vite ? Utilisez vos V-bucks pour acheter des niveaux à tout moment !",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_BR_Season9_BattlePass.DA_BR_Season9_BattlePass",
+          "itemGrants": [
+            {
+              "templateId": "Token:athena_battlepassownershiptoken_s09",
+              "quantity": 1
+            }
+          ]
+        },
         {
           "offerId": "C7190ACA4E5E228A94CA3CB9C3FC7AE9",
           "devName": "BR.Season9.BattleBundle.01",
@@ -2941,64 +3111,6 @@
           ]
         },
         {
-          "offerId": "73E6EE6F4526EF97450D1592C3DB0EF5",
-          "devName": "BR.Season9.BattlePass.01",
-          "offerType": "StaticPrice",
-          "prices": [
-            {
-              "currencyType": "MtxCurrency",
-              "currencySubType": "",
-              "regularPrice": 950,
-              "finalPrice": 950,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 950
-            }
-          ],
-          "categories": [],
-          "dailyLimit": -1,
-          "weeklyLimit": -1,
-          "monthlyLimit": -1,
-          "refundable": false,
-          "appStoreId": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "requirements": [
-            {
-              "requirementType": "DenyOnFulfillment",
-              "requiredId": "73E6EE6F4526EF97450D1592C3DB0EF5",
-              "minQuantity": 1
-            }
-          ],
-          "metaInfo": [
-            {
-              "key": "Preroll",
-              "value": "False"
-            }
-          ],
-          "catalogGroup": "",
-          "catalogGroupPriority": 0,
-          "sortPriority": 1,
-          "title": "Passe de combat",
-          "shortDescription": "Saison 9",
-          "description": "Saison 9 : jusqu'au 1er août\n\nRecevez immédiatement ces objets <Bold>d'une valeur supérieure à 3500 V-bucks</>.\n  • Tenue évolutive <ItemName>Rox</>\n  • Tenue <ItemName>Sentinelle</>\n  • Bonus d'EXP de saison de 50%\n  • Bonus d'EXP de saison de 10% pour des amis\n  • <Bold>Des défis hebdomadaires supplémentaires</>\n\nJouez pour augmenter le niveau de votre Passe de combat et déverrouiller <Bold>plus de 100 récompenses</> (nécessitant de 75 à 150 heures de jeu).\n  • <ItemName>Jonesy du bunker</> plus <Bold>4 autres tenues</>\n  • <Bold>1300 V-bucks</>\n  • 7 emotes\n  • 6 revêtements\n  • 7 outils de collecte\n  • 1 compagnon\n  • 4 planeurs\n  • 6 accessoires de dos\n  • 5 traînées de condensation\n  • 13 aérosols\n  • 3 pistes musicales\n  • 1 jouet\n  • 20 écrans de chargement\n  • Et plus !\nEnvie d'aller plus vite ? Utilisez vos V-bucks pour acheter des niveaux à tout moment !",
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_BR_Season9_BattlePass.DA_BR_Season9_BattlePass",
-          "itemGrants": [
-            {
-              "templateId": "Token:athena_battlepassownershiptoken_s09",
-              "quantity": 1
-            }
-          ]
-        },
-        {
           "offerId": "33E185A84ED7B64F2856E69AADFD092C",
           "devName": "BR.Season9.SingleTier.01",
           "offerType": "StaticPrice",
@@ -3050,66 +3162,6 @@
     {
       "name": "CardPackStoreGameplay",
       "catalogEntries": [
-        {
-          "offerId": "30A676BCF19B4D179F11D59079C69B6D",
-          "devName": "Always.Gameplay.DailyLoginPack.01",
-          "offerType": "StaticPrice",
-          "prices": [
-            {
-              "currencyType": "GameItem",
-              "currencySubType": "AccountResource:voucher_custom_firecracker_r",
-              "regularPrice": 1,
-              "finalPrice": 1,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 1
-            }
-          ],
-          "categories": [],
-          "dailyLimit": -1,
-          "weeklyLimit": -1,
-          "monthlyLimit": -1,
-          "refundable": false,
-          "appStoreId": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "requirements": [],
-          "metaInfo": [
-            {
-              "key": "bUseSharedDisplay",
-              "value": "True"
-            },
-            {
-              "key": "SharedDisplayPriority",
-              "value": "101"
-            },
-            {
-              "key": "Preroll",
-              "value": "False"
-            }
-          ],
-          "catalogGroup": "",
-          "catalogGroupPriority": 0,
-          "sortPriority": 0,
-          "title": "Pistolet pétaradeur rare",
-          "shortDescription": "",
-          "description": "Un schéma aléatoire de Pétaradeur.",
-          "displayAssetPath": "/Game/Items/CardPacks/SpecificRewards/CardPack_Custom_Firecracker_R.CardPack_Custom_Firecracker_R",
-          "itemGrants": [
-            {
-              "templateId": "CardPack:cardpack_custom_firecracker_r",
-              "quantity": 1
-            }
-          ]
-        },
         {
           "offerId": "5366E22A41C8428682737CF99513DC5F",
           "devName": "Always.Gameplay.JackpotVoucher.01",
@@ -3166,6 +3218,66 @@
           "itemGrants": [
             {
               "templateId": "CardPack:cardpack_jackpot",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "offerId": "30A676BCF19B4D179F11D59079C69B6D",
+          "devName": "Always.Gameplay.DailyLoginPack.01",
+          "offerType": "StaticPrice",
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:voucher_custom_firecracker_r",
+              "regularPrice": 1,
+              "finalPrice": 1,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": false,
+          "appStoreId": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "requirements": [],
+          "metaInfo": [
+            {
+              "key": "bUseSharedDisplay",
+              "value": "True"
+            },
+            {
+              "key": "SharedDisplayPriority",
+              "value": "101"
+            },
+            {
+              "key": "Preroll",
+              "value": "False"
+            }
+          ],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 0,
+          "title": "Pistolet pétaradeur rare",
+          "shortDescription": "",
+          "description": "Un schéma aléatoire de Pétaradeur.",
+          "displayAssetPath": "/Game/Items/CardPacks/SpecificRewards/CardPack_Custom_Firecracker_R.CardPack_Custom_Firecracker_R",
+          "itemGrants": [
+            {
+              "templateId": "CardPack:cardpack_custom_firecracker_r",
               "quantity": 1
             }
           ]
@@ -3382,7 +3494,13 @@
             "c-giftable00000001-BPFSG1",
             "sam_BPFSG1"
           ],
-          "requirements": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "Token:battlepassgift",
+              "minQuantity": 1
+            }
+          ],
           "metaInfo": [],
           "catalogGroup": "",
           "catalogGroupPriority": 0,
@@ -4171,6 +4289,79 @@
           ]
         },
         {
+          "offerId": "9622E4B94D377780F2410982F4DEADE9",
+          "devName": "Black Monday",
+          "offerType": "StaticPrice",
+          "prices": [
+            {
+              "currencyType": "RealMoney",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 0
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": false,
+          "appStoreId": [
+            "",
+            "2eb58adefbba454ba1dab2d530536403",
+            "ios_blamon_C",
+            "",
+            "",
+            "",
+            "BLAMON0000000000",
+            "d40f973e-ebb3-447c-b1ce-4bbe12ddada5",
+            "c-specialpack00000-BLAMON",
+            "sam_BLAMON"
+          ],
+          "requirements": [
+            {
+              "requirementType": "DenyOnFulfillment",
+              "requiredId": "0253BB94416C809D99F0638C6F8A86A1",
+              "minQuantity": 1
+            }
+          ],
+          "metaInfo": [],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 9,
+          "title": "Pack Batman Le Croisé En Cape",
+          "shortDescription": "",
+          "description": "Activez le Bat-Signal ! Le Croisé En Cape a rejoint la bataille.",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_BlackMondayBundle_6W4X3.DA_Featured_BlackMondayBundle_6W4X3",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_528_athena_commando_m_blackmondayhouston_7dgbt",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaCharacter:cid_529_athena_commando_m_blackmondaykansas_hwd90",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaBackpack:bid_362_blackmondayhouston_2i53g",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaBackpack:bid_360_blackmondaykansas_vcz9m",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaPickaxe:pickaxe_id_277_blackmondaymale_5tlsd",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaGlider:glider_id_178_blackmondaymale_03m3e",
+              "quantity": 1
+            }
+          ]
+        },
+        {
           "offerId": "164435F248762115C99DC2A3204A2D1F",
           "devName": "Season 5 Starter Kit (RMT)",
           "offerType": "StaticPrice",
@@ -4584,54 +4775,6 @@
           ]
         },
         {
-          "offerId": "BF5BCE604C9616899B9311939E737D8C",
-          "devName": "Black Monday",
-          "offerType": "StaticPrice",
-          "prices": [
-            {
-              "currencyType": "RealMoney",
-              "currencySubType": "",
-              "regularPrice": 0,
-              "finalPrice": 0,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 0
-            }
-          ],
-          "categories": [],
-          "dailyLimit": -1,
-          "weeklyLimit": -1,
-          "monthlyLimit": -1,
-          "refundable": false,
-          "appStoreId": [
-            "",
-            "2eb58adefbba454ba1dab2d530536403",
-            "ios_blamon_C",
-            "",
-            "",
-            "",
-            "BLAMON0000000000",
-            "d40f973e-ebb3-447c-b1ce-4bbe12ddada5",
-            "c-specialpack00000-BLAMON",
-            "sam_BLAMON"
-          ],
-          "requirements": [
-            {
-              "requirementType": "DenyOnFulfillment",
-              "requiredId": "0253BB94416C809D99F0638C6F8A86A1",
-              "minQuantity": 1
-            }
-          ],
-          "metaInfo": [],
-          "catalogGroup": "",
-          "catalogGroupPriority": 0,
-          "sortPriority": 9,
-          "title": "Set_01_TA",
-          "shortDescription": "",
-          "description": "Set_01_TB",
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_BlackMondayBundle_6W4X3.DA_Featured_BlackMondayBundle_6W4X3",
-          "itemGrants": []
-        },
-        {
           "offerId": "4EEFB69645A8CBB239BAD1A520AA4663",
           "devName": "Season 4 Starter Kit (RMT)",
           "offerType": "StaticPrice",
@@ -4685,7 +4828,7 @@
           "title": "Kit de démarrage S4",
           "shortDescription": "",
           "description": "Un skin épique et 600 V-bucks !",
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_139_Athena_Commando_M_Fighterpilot.DA_Featured_CID_139_Athena_Commando_M_Fighterpilot",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_139_Athena_Commando_M_Fighterpilot.DA_Featured_CID_139_Athena_Commando_M_FighterPilot",
           "itemGrants": [
             {
               "templateId": "Currency:MtxPurchased",
@@ -4846,21 +4989,21 @@
       "name": "STWRotationalEventStorefront",
       "catalogEntries": [
         {
-          "devName": "[VIRTUAL]1 x Ceiling Zapper for 600 GameItem : AccountResource:eventcurrency_scaling",
-          "offerId": "v2:/85ee4e71289201aa54fecc5cd2f1c136b0fbaa41a0b1b8f8334ed71052d23143",
+          "devName": "[VIRTUAL]1 x Broadside for 1680 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/6eb23d2ba5be3107834aa7c8f0f3a9076d72f29caa40e59fe5eb1446580e334c",
           "fulfillmentIds": [],
           "dailyLimit": -1,
-          "weeklyLimit": 3,
+          "weeklyLimit": 1,
           "monthlyLimit": -1,
           "categories": [],
           "prices": [
             {
               "currencyType": "GameItem",
               "currencySubType": "AccountResource:eventcurrency_scaling",
-              "regularPrice": 600,
-              "finalPrice": 600,
+              "regularPrice": 1680,
+              "finalPrice": 1680,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 600
+              "basePrice": 1680
             }
           ],
           "meta": {},
@@ -4872,14 +5015,8 @@
           "refundable": false,
           "itemGrants": [
             {
-              "templateId": "Schematic:sid_ceiling_electric_single_vr_t01",
-              "quantity": 1,
-              "attributes": {
-                "Alteration": {
-                  "LootTierGroup": "AlterationTG.Trap.VR",
-                  "Tier": 0
-                }
-              }
+              "templateId": "Schematic:sid_wall_cannons_sr_t01",
+              "quantity": 1
             }
           ],
           "sortPriority": 0,
@@ -4920,8 +5057,8 @@
           "catalogGroupPriority": 0
         },
         {
-          "devName": "[VIRTUAL]1 x Retractable Floor Spikes for 1680 GameItem : AccountResource:eventcurrency_scaling",
-          "offerId": "v2:/179f91cb2c28053533a1d41c7968ee77dbd3341b54bc01c436c9ea63d06f8a1e",
+          "devName": "[VIRTUAL]1 x Dim Mak Mari for 400 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/11ebcac3562bbe060b2ff421ad026825ea8afbbf0ce818b690639a7c0762136d",
           "fulfillmentIds": [],
           "dailyLimit": -1,
           "weeklyLimit": 1,
@@ -4931,10 +5068,10 @@
             {
               "currencyType": "GameItem",
               "currencySubType": "AccountResource:eventcurrency_scaling",
-              "regularPrice": 1680,
-              "finalPrice": 1680,
+              "regularPrice": 400,
+              "finalPrice": 400,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 1680
+              "basePrice": 400
             }
           ],
           "meta": {},
@@ -4946,14 +5083,8 @@
           "refundable": false,
           "itemGrants": [
             {
-              "templateId": "Schematic:sid_floor_spikes_sr_t01",
-              "quantity": 1,
-              "attributes": {
-                "Alteration": {
-                  "LootTierGroup": "AlterationTG.Trap.SR",
-                  "Tier": 0
-                }
-              }
+              "templateId": "Hero:hid_ninja_smokedimmak_r_t01",
+              "quantity": 1
             }
           ],
           "sortPriority": 0,
@@ -4988,6 +5119,46 @@
             {
               "templateId": "AccountResource:reagent_c_t01",
               "quantity": 10
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Copper Greataxe    for 240 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/23ad59de92c18de60aa37f0358764ceedc4390aec97faf07db6cbc6e03e34ffe",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": 3,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 240,
+              "finalPrice": 240,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 240
+            }
+          ],
+          "meta": {},
+          "matchFilter": "",
+          "filterWeight": 0.0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "itemGrants": [
+            {
+              "templateId": "Schematic:sid_edged_axe_heavy_r_ore_t01",
+              "quantity": 1,
+              "attributes": {
+                "Alteration": {
+                  "LootTierGroup": "AlterationTG.Melee.R",
+                  "Tier": 0
+                }
+              }
             }
           ],
           "sortPriority": 0,
@@ -5062,6 +5233,46 @@
           "catalogGroupPriority": 0
         },
         {
+          "devName": "[VIRTUAL]1 x Copper Powered Laser Rifle  for 600 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/d624a26c2ab0dcc0119b1b3dc3b820b37954dccd0021d9b84f6fefd2744691f1",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": 3,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 600,
+              "finalPrice": 600,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 600
+            }
+          ],
+          "meta": {},
+          "matchFilter": "",
+          "filterWeight": 0.0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "itemGrants": [
+            {
+              "templateId": "Schematic:sid_sniper_amr_vr_ore_t01",
+              "quantity": 1,
+              "attributes": {
+                "Alteration": {
+                  "LootTierGroup": "AlterationTG.Ranged.Energy.Sniper.VR",
+                  "Tier": 0
+                }
+              }
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
           "devName": "[VIRTUAL]10 x Lightning in a Bottle for 100 GameItem : AccountResource:eventcurrency_scaling",
           "offerId": "v2:/2736a951957b4f6d14fe58bff23ff6d476e31ac648636bd26231a46597573814",
           "fulfillmentIds": [],
@@ -5096,8 +5307,8 @@
           "catalogGroupPriority": 0
         },
         {
-          "devName": "[VIRTUAL]1 x Copper Husk Stomper   for 1680 GameItem : AccountResource:eventcurrency_scaling",
-          "offerId": "v2:/d806ae6a6c5c329f79bd2b64841a5eeabaf5d8fdc305cdad66adb4d29fd76375",
+          "devName": "[VIRTUAL]1 x B.A.S.E. Kyle for 160 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/2dd7a6efb95048e75e8b6ac6de82bd4fd6c3d9e173db01367072dc25afe580e6",
           "fulfillmentIds": [],
           "dailyLimit": -1,
           "weeklyLimit": 1,
@@ -5107,10 +5318,10 @@
             {
               "currencyType": "GameItem",
               "currencySubType": "AccountResource:eventcurrency_scaling",
-              "regularPrice": 1680,
-              "finalPrice": 1680,
+              "regularPrice": 160,
+              "finalPrice": 160,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 1680
+              "basePrice": 160
             }
           ],
           "meta": {},
@@ -5122,14 +5333,8 @@
           "refundable": false,
           "itemGrants": [
             {
-              "templateId": "Schematic:sid_blunt_hammer_rocket_sr_ore_t01",
-              "quantity": 1,
-              "attributes": {
-                "Alteration": {
-                  "LootTierGroup": "AlterationTG.Melee.SR",
-                  "Tier": 0
-                }
-              }
+              "templateId": "Hero:hid_constructor_rushbase_uc_t01",
+              "quantity": 1
             }
           ],
           "sortPriority": 0,
@@ -5164,80 +5369,6 @@
             {
               "templateId": "AccountResource:reagent_evolverarity_r",
               "quantity": 10
-            }
-          ],
-          "sortPriority": 0,
-          "catalogGroupPriority": 0
-        },
-        {
-          "devName": "[VIRTUAL]1 x Copper Laser Scythe   for 600 GameItem : AccountResource:eventcurrency_scaling",
-          "offerId": "v2:/1db4dba24f7d89697db3c9431cc85ca85772d6e26c925959f6f9960b63d8974c",
-          "fulfillmentIds": [],
-          "dailyLimit": -1,
-          "weeklyLimit": 3,
-          "monthlyLimit": -1,
-          "categories": [],
-          "prices": [
-            {
-              "currencyType": "GameItem",
-              "currencySubType": "AccountResource:eventcurrency_scaling",
-              "regularPrice": 600,
-              "finalPrice": 600,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 600
-            }
-          ],
-          "meta": {},
-          "matchFilter": "",
-          "filterWeight": 0.0,
-          "appStoreId": [],
-          "requirements": [],
-          "offerType": "StaticPrice",
-          "refundable": false,
-          "itemGrants": [
-            {
-              "templateId": "Schematic:sid_edged_scythe_laser_vr_ore_t01",
-              "quantity": 1,
-              "attributes": {
-                "Alteration": {
-                  "LootTierGroup": "AlterationTG.Melee.VR",
-                  "Tier": 0
-                }
-              }
-            }
-          ],
-          "sortPriority": 0,
-          "catalogGroupPriority": 0
-        },
-        {
-          "devName": "[VIRTUAL]1 x Striker A.C. for 1000 GameItem : AccountResource:eventcurrency_scaling",
-          "offerId": "v2:/856915a481c41d80ac6e2e2306ab18fa0835683305e3c114135352960ca0e5c7",
-          "fulfillmentIds": [],
-          "dailyLimit": -1,
-          "weeklyLimit": 1,
-          "monthlyLimit": -1,
-          "categories": [],
-          "prices": [
-            {
-              "currencyType": "GameItem",
-              "currencySubType": "AccountResource:eventcurrency_scaling",
-              "regularPrice": 1000,
-              "finalPrice": 1000,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 1000
-            }
-          ],
-          "meta": {},
-          "matchFilter": "",
-          "filterWeight": 0.0,
-          "appStoreId": [],
-          "requirements": [],
-          "offerType": "StaticPrice",
-          "refundable": false,
-          "itemGrants": [
-            {
-              "templateId": "Hero:hid_outlander_punchdamage_vr_t01",
-              "quantity": 1
             }
           ],
           "sortPriority": 0,
@@ -5346,8 +5477,55 @@
           "catalogGroupPriority": 0
         },
         {
-          "devName": "[VIRTUAL]1 x Shock Specialist A.C. for 160 GameItem : AccountResource:eventcurrency_scaling",
-          "offerId": "v2:/374109cd1aeed2b15026bfd4b3e349e875d5f024393f80b429b41511554f0f71",
+          "devName": "[VIRTUAL]1 x Copper Deciblaster for 1680 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/c6cc9e8570ee2d37dc8cb5a945f76bc628f0e7cd22808a5614a0b7b4698475ee",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 1680,
+              "finalPrice": 1680,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1680
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "7gcvgi3jinrbe6708g4ukit9bg[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0.0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "7gcvgi3jinrbe6708g4ukit9bg[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Schematic:sid_explosive_boombox_sr_ore_t01",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 20,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Copper Stormchaser's Revenge   for 1680 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/1b5c07db80893639c57fda3a5fad9b0e10c518ad6d57f5d7e8aaff036de62e68",
           "fulfillmentIds": [],
           "dailyLimit": -1,
           "weeklyLimit": 1,
@@ -5357,10 +5535,10 @@
             {
               "currencyType": "GameItem",
               "currencySubType": "AccountResource:eventcurrency_scaling",
-              "regularPrice": 160,
-              "finalPrice": 160,
+              "regularPrice": 1680,
+              "finalPrice": 1680,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 160
+              "basePrice": 1680
             }
           ],
           "meta": {},
@@ -5372,42 +5550,14 @@
           "refundable": false,
           "itemGrants": [
             {
-              "templateId": "Hero:hid_outlander_punchphase_uc_t01",
-              "quantity": 1
-            }
-          ],
-          "sortPriority": 0,
-          "catalogGroupPriority": 0
-        },
-        {
-          "devName": "[VIRTUAL]5 x Legendary Flux for 75 GameItem : AccountResource:eventcurrency_scaling",
-          "offerId": "v2:/9af32d7a9a16f864eae99d17542ec08763d118f3ce9c72ad05d5fc5f44586dc1",
-          "fulfillmentIds": [],
-          "dailyLimit": -1,
-          "weeklyLimit": 10,
-          "monthlyLimit": -1,
-          "categories": [],
-          "prices": [
-            {
-              "currencyType": "GameItem",
-              "currencySubType": "AccountResource:eventcurrency_scaling",
-              "regularPrice": 75,
-              "finalPrice": 75,
-              "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 75
-            }
-          ],
-          "meta": {},
-          "matchFilter": "",
-          "filterWeight": 0.0,
-          "appStoreId": [],
-          "requirements": [],
-          "offerType": "StaticPrice",
-          "refundable": false,
-          "itemGrants": [
-            {
-              "templateId": "AccountResource:reagent_evolverarity_sr",
-              "quantity": 5
+              "templateId": "Schematic:sid_edged_axe_heavy_sr_ore_t01",
+              "quantity": 1,
+              "attributes": {
+                "Alteration": {
+                  "LootTierGroup": "AlterationTG.Melee.SR",
+                  "Tier": 0
+                }
+              }
             }
           ],
           "sortPriority": 0,
@@ -5442,6 +5592,40 @@
             {
               "templateId": "AccountResource:reagent_c_t04",
               "quantity": 10
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]5 x Legendary Flux for 75 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/9af32d7a9a16f864eae99d17542ec08763d118f3ce9c72ad05d5fc5f44586dc1",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": 10,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 75,
+              "finalPrice": 75,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 75
+            }
+          ],
+          "meta": {},
+          "matchFilter": "",
+          "filterWeight": 0.0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "itemGrants": [
+            {
+              "templateId": "AccountResource:reagent_evolverarity_sr",
+              "quantity": 5
             }
           ],
           "sortPriority": 0,
