@@ -3,86 +3,86 @@
     "client-matchmaking": {
       "states": [
         {
-          "validFrom": "2019-09-18T16:31:41.335Z",
+          "validFrom": "2019-09-25T11:47:18.287Z",
+          "activeEvents": [],
+          "state": {
+            "region": {
+              "BR": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "validFrom": "2019-09-25T12:00:00Z",
+          "activeEvents": [],
+          "state": {
+            "region": {
+              "BR": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              },
+              "OCE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "validFrom": "2019-09-25T13:00:00Z",
+          "activeEvents": [],
+          "state": {
+            "region": {
+              "BR": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              },
+              "OCE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "validFrom": "2019-09-25T14:00:00Z",
           "activeEvents": [],
           "state": {
             "region": {
               "OCE": {
                 "eventFlagsForcedOff": [
                   "Playlist_DefaultDuo"
-                ],
-                "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Squads"
-                ]
-              },
-              "NAE": {
-                "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Squads"
-                ]
-              },
-              "NAW": {
-                "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Squads"
-                ]
-              },
-              "EU": {
-                "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Squads"
-                ]
-              },
-              "BR": {
-                "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Squads"
-                ]
-              },
-              "ASIA": {
-                "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Squads"
-                ]
-              },
-              "NA": {
-                "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Squads"
-                ]
-              },
-              "ME": {
-                "eventFlagsForcedOn": [
-                  "Playlist_HighExplosives_Squads"
-                ]
-              },
-              "CN": {
-                "eventFlagsForcedOff": [
-                  "Playlist_DefaultDuo",
-                  "Playlist_Deimos_DuoCN"
-                ]
-              },
-              "REGIONID": {
-                "eventFlagsForcedOff": [
-                  "Playlist_Deimos_Duo_WinterCN"
                 ]
               }
             }
           }
         }
       ],
-      "cacheExpire": "2019-09-18T18:31:41.335Z"
+      "cacheExpire": "2019-09-25T13:47:18.287Z"
     },
     "tk": {
       "states": [
         {
-          "validFrom": "2019-09-18T16:31:41.335Z",
+          "validFrom": "2019-09-25T11:47:18.287Z",
           "activeEvents": [],
           "state": {
             "k": []
           }
         }
       ],
-      "cacheExpire": "2019-09-18T18:31:41.335Z"
+      "cacheExpire": "2019-09-25T13:47:18.287Z"
     },
     "community-votes": {
       "states": [
         {
-          "validFrom": "2019-09-18T16:31:41.335Z",
+          "validFrom": "2019-09-25T11:47:18.287Z",
           "activeEvents": [],
           "state": {
             "electionId": "",
@@ -92,12 +92,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-09-18T18:31:41.335Z"
+      "cacheExpire": "2019-09-25T13:47:18.287Z"
     },
     "client-events": {
       "states": [
         {
-          "validFrom": "2019-09-18T16:31:41.335Z",
+          "validFrom": "2019-09-25T11:47:18.287Z",
           "activeEvents": [
             {
               "eventType": "EventFlag.Mayday",
@@ -170,19 +170,24 @@
               "activeSince": "2019-08-15T00:00:00Z"
             },
             {
-              "eventType": "EventFlag.Mayday.Quests.Phase7",
-              "activeUntil": "2019-09-19T00:00:00Z",
-              "activeSince": "2019-09-12T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.Season10_UrgentMission_7",
-              "activeUntil": "2019-09-19T13:00:00Z",
-              "activeSince": "2019-09-12T13:00:00Z"
+              "eventType": "EventFlag.Season10.Phase3",
+              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeSince": "2019-09-04T00:00:00Z"
             },
             {
               "eventType": "EventFlag.S10_Mystery",
               "activeUntil": "2019-10-06T18:00:00Z",
               "activeSince": "2019-09-14T13:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Season10_UrgentMission_8",
+              "activeUntil": "2019-09-26T13:00:00Z",
+              "activeSince": "2019-09-19T13:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.LTE_BlackMonday",
+              "activeUntil": "2019-10-01T13:00:00Z",
+              "activeSince": "2019-09-21T12:00:00Z"
             }
           ],
           "state": {
@@ -190,20 +195,28 @@
             "eventNamedWeights": {},
             "activeEvents": [
               {
-                "instanceId": "3r7tc6lickm9h8ki0ji4h9ip2f[2]0",
-                "devName": "Season10_UrgentMission_007",
-                "eventName": "CalendarEvent_Season10_UrgentMission_7",
-                "eventStart": "2019-09-12T13:00:00Z",
-                "eventEnd": "2019-09-19T13:00:00Z",
-                "eventType": "EventFlag.Season10_UrgentMission_7"
-              },
-              {
                 "instanceId": "3kepcp3fl4g60bkoi7i79787sc[2]0",
                 "devName": "Season10_Schedule_MysteryMission",
                 "eventName": "CalendarEvent_Season10_Mystery",
                 "eventStart": "2019-09-14T13:00:00Z",
                 "eventEnd": "2019-10-06T18:00:00Z",
                 "eventType": "EventFlag.S10_Mystery"
+              },
+              {
+                "instanceId": "561v5ja7l1uts1f8ic5dhhbsc8[2]0",
+                "devName": "Season10_UrgentMission_008",
+                "eventName": "CalendarEvent_Season10_UrgentMission_8",
+                "eventStart": "2019-09-19T13:00:00Z",
+                "eventEnd": "2019-09-26T13:00:00Z",
+                "eventType": "EventFlag.Season10_UrgentMission_8"
+              },
+              {
+                "instanceId": "0vu9fetsj0v5uhuhda2qs9t5pf[2]0",
+                "devName": "Event_BlackMonday",
+                "eventName": "CalendarEvent_Season10_BlackMonday",
+                "eventStart": "2019-09-21T12:00:00Z",
+                "eventEnd": "2019-10-01T13:00:00Z",
+                "eventType": "EventFlag.LTE_BlackMonday"
               }
             ],
             "seasonNumber": 10,
@@ -212,17 +225,17 @@
             "seasonBegin": "2019-07-30T13:00:00Z",
             "seasonEnd": "2019-10-10T14:00:00Z",
             "seasonDisplayedEnd": "2019-10-06T14:00:00Z",
-            "weeklyStoreEnd": "2019-09-19T00:00:00Z",
+            "weeklyStoreEnd": "2019-09-26T00:00:00Z",
             "stwEventStoreEnd": "2019-10-16T00:00:00Z",
-            "stwWeeklyStoreEnd": "2019-09-19T00:00:00Z",
-            "dailyStoreEnd": "2019-09-19T00:00:00Z"
+            "stwWeeklyStoreEnd": "2019-09-26T00:00:00Z",
+            "dailyStoreEnd": "2019-09-26T00:00:00Z"
           }
         }
       ],
-      "cacheExpire": "2019-09-18T18:31:41.335Z"
+      "cacheExpire": "2019-09-25T13:47:18.287Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2019-09-18T16:59:25.285Z"
+  "currentTime": "2019-09-25T12:14:13.443Z"
 }
