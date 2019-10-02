@@ -3,20 +3,7 @@
     "client-matchmaking": {
       "states": [
         {
-          "validFrom": "2019-09-25T11:47:18.287Z",
-          "activeEvents": [],
-          "state": {
-            "region": {
-              "BR": {
-                "eventFlagsForcedOff": [
-                  "Playlist_DefaultDuo"
-                ]
-              }
-            }
-          }
-        },
-        {
-          "validFrom": "2019-09-25T12:00:00Z",
+          "validFrom": "2019-10-02T13:52:38.455Z",
           "activeEvents": [],
           "state": {
             "region": {
@@ -34,15 +21,10 @@
           }
         },
         {
-          "validFrom": "2019-09-25T13:00:00Z",
+          "validFrom": "2019-10-02T14:00:00Z",
           "activeEvents": [],
           "state": {
             "region": {
-              "BR": {
-                "eventFlagsForcedOff": [
-                  "Playlist_DefaultDuo"
-                ]
-              },
               "OCE": {
                 "eventFlagsForcedOff": [
                   "Playlist_DefaultDuo"
@@ -52,37 +34,66 @@
           }
         },
         {
-          "validFrom": "2019-09-25T14:00:00Z",
+          "validFrom": "2019-10-02T15:00:00Z",
           "activeEvents": [],
           "state": {
             "region": {
               "OCE": {
                 "eventFlagsForcedOff": [
                   "Playlist_DefaultDuo"
+                ]
+              },
+              "CN": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "validFrom": "2019-10-02T16:00:00Z",
+          "activeEvents": [],
+          "state": {
+            "region": {
+              "OCE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              },
+              "CN": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo",
+                  "Playlist_Deimos_DuoCN"
+                ]
+              },
+              "REGIONID": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Deimos_Duo_WinterCN"
                 ]
               }
             }
           }
         }
       ],
-      "cacheExpire": "2019-09-25T13:47:18.287Z"
+      "cacheExpire": "2019-10-02T15:52:38.455Z"
     },
     "tk": {
       "states": [
         {
-          "validFrom": "2019-09-25T11:47:18.287Z",
+          "validFrom": "2019-10-02T13:52:38.455Z",
           "activeEvents": [],
           "state": {
             "k": []
           }
         }
       ],
-      "cacheExpire": "2019-09-25T13:47:18.287Z"
+      "cacheExpire": "2019-10-02T15:52:38.455Z"
     },
     "community-votes": {
       "states": [
         {
-          "validFrom": "2019-09-25T11:47:18.287Z",
+          "validFrom": "2019-10-02T13:52:38.455Z",
           "activeEvents": [],
           "state": {
             "electionId": "",
@@ -92,102 +103,107 @@
           }
         }
       ],
-      "cacheExpire": "2019-09-25T13:47:18.287Z"
+      "cacheExpire": "2019-10-02T15:52:38.455Z"
     },
     "client-events": {
       "states": [
         {
-          "validFrom": "2019-09-25T11:47:18.287Z",
+          "validFrom": "2019-10-02T13:52:38.455Z",
           "activeEvents": [
             {
-              "eventType": "EventFlag.Mayday",
-              "activeUntil": "2019-10-16T00:00:00Z",
-              "activeSince": "2019-07-15T00:00:00Z"
-            },
-            {
-              "eventType": "EventFlag.Mayday.Quests",
-              "activeUntil": "2019-10-16T00:00:00Z",
-              "activeSince": "2019-07-15T00:00:00Z"
-            },
-            {
               "eventType": "EventFlag.Season10",
-              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeUntil": "2019-10-23T00:00:00Z",
               "activeSince": "2019-07-15T00:00:00Z"
             },
             {
               "eventType": "EventFlag.Season10.Phase1",
-              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeUntil": "2019-10-23T00:00:00Z",
               "activeSince": "2019-07-15T00:00:00Z"
             },
             {
               "eventType": "EventFlag.PassiveMiniBosses",
-              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeUntil": "2019-10-23T00:00:00Z",
               "activeSince": "2019-07-15T00:00:00Z"
             },
             {
               "eventType": "EventFlag.ActiveStorms",
-              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeUntil": "2019-10-23T00:00:00Z",
               "activeSince": "2019-07-15T00:00:00Z"
             },
             {
               "eventType": "EventFlag.ElementalZone.Fire",
-              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeUntil": "2019-10-23T00:00:00Z",
               "activeSince": "2019-07-15T00:00:00Z"
             },
             {
               "eventType": "EventFlag.ElementalZone.Nature",
-              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeUntil": "2019-10-23T00:00:00Z",
               "activeSince": "2019-07-15T00:00:00Z"
             },
             {
               "eventType": "EventFlag.ElementalZone.Water",
-              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeUntil": "2019-10-23T00:00:00Z",
               "activeSince": "2019-07-15T00:00:00Z"
             },
             {
               "eventType": "EventFlag.MissionAlert.MegaAlert",
-              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeUntil": "2019-10-23T00:00:00Z",
+              "activeSince": "2019-07-15T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Mayday.Quests",
+              "activeUntil": "2019-10-23T00:00:00Z",
+              "activeSince": "2019-07-15T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Mayday",
+              "activeUntil": "2019-10-23T00:00:00Z",
               "activeSince": "2019-07-15T00:00:00Z"
             },
             {
               "eventType": "EventFlag.LobbySeason10",
-              "activeUntil": "2019-10-10T14:00:00Z",
+              "activeUntil": "2019-10-17T14:00:00Z",
               "activeSince": "2019-07-30T13:00:00Z"
             },
             {
               "eventType": "EventFlag.Season10.Phase2",
-              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeUntil": "2019-10-23T00:00:00Z",
               "activeSince": "2019-08-05T00:00:00Z"
             },
             {
               "eventType": "EventFlag.Mayday.Quests.1020",
-              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeUntil": "2019-10-23T00:00:00Z",
               "activeSince": "2019-08-07T00:00:00Z"
             },
             {
               "eventType": "EventFlag.Mayday.Quests.1030",
-              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeUntil": "2019-10-23T00:00:00Z",
               "activeSince": "2019-08-15T00:00:00Z"
             },
             {
               "eventType": "EventFlag.Season10.Phase3",
-              "activeUntil": "2019-10-16T00:00:00Z",
+              "activeUntil": "2019-10-23T00:00:00Z",
               "activeSince": "2019-09-04T00:00:00Z"
             },
             {
               "eventType": "EventFlag.S10_Mystery",
-              "activeUntil": "2019-10-06T18:00:00Z",
+              "activeUntil": "2019-10-13T18:00:00Z",
               "activeSince": "2019-09-14T13:00:00Z"
             },
             {
-              "eventType": "EventFlag.Season10_UrgentMission_8",
-              "activeUntil": "2019-09-26T13:00:00Z",
-              "activeSince": "2019-09-19T13:00:00Z"
+              "eventType": "EventFlag.Mayday.Quests.Phase9",
+              "activeUntil": "2019-10-03T00:00:00Z",
+              "activeSince": "2019-09-26T00:00:00Z"
             },
             {
-              "eventType": "EventFlag.LTE_BlackMonday",
-              "activeUntil": "2019-10-01T13:00:00Z",
-              "activeSince": "2019-09-21T12:00:00Z"
+              "eventType": "EventFlag.Season10_UrgentMission_9",
+              "activeUntil": "2019-10-03T13:00:00Z",
+              "activeSince": "2019-09-26T13:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.LTM_ZebraWallet",
+              "activeUntil": "2019-10-07T13:00:00Z",
+              "activeSince": "2019-09-27T12:00:00Z"
             }
           ],
           "state": {
@@ -199,43 +215,43 @@
                 "devName": "Season10_Schedule_MysteryMission",
                 "eventName": "CalendarEvent_Season10_Mystery",
                 "eventStart": "2019-09-14T13:00:00Z",
-                "eventEnd": "2019-10-06T18:00:00Z",
+                "eventEnd": "2019-10-13T18:00:00Z",
                 "eventType": "EventFlag.S10_Mystery"
               },
               {
-                "instanceId": "561v5ja7l1uts1f8ic5dhhbsc8[2]0",
-                "devName": "Season10_UrgentMission_008",
-                "eventName": "CalendarEvent_Season10_UrgentMission_8",
-                "eventStart": "2019-09-19T13:00:00Z",
-                "eventEnd": "2019-09-26T13:00:00Z",
-                "eventType": "EventFlag.Season10_UrgentMission_8"
+                "instanceId": "6p5bmfu83h4savjtral1abr9kk[2]0",
+                "devName": "Season10_UrgentMission_009",
+                "eventName": "CalendarEvent_Season10_UrgentMission_9",
+                "eventStart": "2019-09-26T13:00:00Z",
+                "eventEnd": "2019-10-03T13:00:00Z",
+                "eventType": "EventFlag.Season10_UrgentMission_9"
               },
               {
-                "instanceId": "0vu9fetsj0v5uhuhda2qs9t5pf[2]0",
-                "devName": "Event_BlackMonday",
-                "eventName": "CalendarEvent_Season10_BlackMonday",
-                "eventStart": "2019-09-21T12:00:00Z",
-                "eventEnd": "2019-10-01T13:00:00Z",
-                "eventType": "EventFlag.LTE_BlackMonday"
+                "instanceId": "6tvmlkgv2fk3vpif70r01hdaid[2]0",
+                "devName": "Event_ZebraWallet",
+                "eventName": "CalendarEvent_Season10_ZebraWallet",
+                "eventStart": "2019-09-27T12:00:00Z",
+                "eventEnd": "2019-10-07T13:00:00Z",
+                "eventType": "EventFlag.LTM_ZebraWallet"
               }
             ],
             "seasonNumber": 10,
             "seasonTemplateId": "AthenaSeason:athenaseason10",
             "matchXpBonusPoints": 0,
             "seasonBegin": "2019-07-30T13:00:00Z",
-            "seasonEnd": "2019-10-10T14:00:00Z",
-            "seasonDisplayedEnd": "2019-10-06T14:00:00Z",
-            "weeklyStoreEnd": "2019-09-26T00:00:00Z",
+            "seasonEnd": "2019-10-17T14:00:00Z",
+            "seasonDisplayedEnd": "2019-10-13T14:00:00Z",
+            "weeklyStoreEnd": "2019-10-03T00:00:00Z",
             "stwEventStoreEnd": "2019-10-16T00:00:00Z",
-            "stwWeeklyStoreEnd": "2019-09-26T00:00:00Z",
-            "dailyStoreEnd": "2019-09-26T00:00:00Z"
+            "stwWeeklyStoreEnd": "2019-10-03T00:00:00Z",
+            "dailyStoreEnd": "2019-10-03T00:00:00Z"
           }
         }
       ],
-      "cacheExpire": "2019-09-25T13:47:18.287Z"
+      "cacheExpire": "2019-10-02T15:52:38.455Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2019-09-25T12:14:13.443Z"
+  "currentTime": "2019-10-02T14:17:12.006Z"
 }
