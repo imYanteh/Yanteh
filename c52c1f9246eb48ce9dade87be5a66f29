@@ -1,23 +1,8 @@
 [/Script/FortniteGame.FortRuntimeOptions]
-;Hotfix Flag
-PreloadRevision=7
 
-;Disabling StW large party support - intended to be off until Kairos ship.  (Sit out is still disabled, so it is not obvious to players.)
-MaxPartySizeCampaign=4
+PreloadRevision=4
 
-;Increase triggers/receivers channels
-NumGameplayMessageChannels=50
 
-;Make 2FA enable URL more friendly
-TurnOnMfaURL="https://fortnite.com/2fa"
-
-;Enable Community Choice Voting
-EnableCommunityVotingScreen=true
-
-;Disable "When Item Returned Transmit On" setting for Capture Item Spawner
-+DisabledGameplayMessages=(MessageOwnerClassName="BP_Creative_ItemSpawner_C", MessageName="TriggerOnReturnedItem")
-
-;----- BOOLS/TOGGLES/THRESHOLDS -----
 
 bShowAthenaFeaturedItemToast=false
 bShowAthenaDailyItemToast=false
@@ -47,11 +32,11 @@ bAllowCodeRedemptionInSubgameSelect=false
 bEnableIslandCodeEntryOnPlayerPortal=false
 EsportsAnalyticsHeartbeatRate=5.0
 bHideServersWithZeroPlayers=false
-;Give MCP time to send new data to all read slaves
+
 ShowdownXmppRefreshRateInSeconds=120
-;Give MCP time to send new data to all read slaves
+
 ShowdownTournamentCacheExpirationHours=0
-;Aim Down Sight strength
+
 MaxQuickScopeAimAssistPullWatchTime=1.0
 MaxQuickScopeAimAssistPulls=2
 AllowLockPrimaryInputMethodToMouseForAccessibility=false
@@ -68,7 +53,6 @@ MinimumAccountLevelForTournamentPlay=15
 bAllowReportingFeaturedIslands = false
 LiveReplayDiscoverabilityDelay=300.0f
 bGetLiveSessionsfromLeaderboards=false
-bEnableSitoutOption_STW=false
 bShowAthenaStoreToast=true
 bReplayGoToTimeEnabled=true
 bImmediatelyDisplayCrossplayOptIn_BR=false
@@ -81,62 +65,80 @@ bEnableUserProfilePictures=false
 bEnableNotifyWhenPlaying=false
 bAllowOfflineInvites=false
 bEnableMissedInvitesEntry=false
-;show trailer button
+
 bShowReplayTrailerButton_Athena=true
-;do not skip trailer
+
 bskipTrailerMovie=False
-;Disabling Driftboard in StW
+
 bEnableJackalInStw=false
 NewMtxStoreCohortSampleSet=100
-;analytic engagements timeout
+
 AnalyticsClientEngagementsTimeoutSeconds=15.0
-;Enables Channels user settings dark reads
+
 bEnableChannelsServiceLoadTesting=true
-bEnableMobileMainMenuBackToTitle=false
 bEnableContentControlsPurchaseReporting=false
 bEnableYoutubeLinks=false
+bEnableMissedInvitesEntry=true
+bEnableUserProfilePictures=true
+bAllowOfflineInvites=true
 
+bEnableMatchAbandonProcess=false
 bDisableContextTutorial=false
+
+bCreateEpicAccountPinGrantDisabled=true
+
+EnableCommunityVotingScreen=false
+
+bEnableMatchAbandonProcess=false
 
 TournamentHUDPointCounterDelay=1.5f
 
-;Make ally chevrons equal to player relevancy
+
+CrucibleMinValidStatScoreMilliseconds = 2000
+
+
 FadeOutTeamIndicatorsAfter=27500
 
-;WC Stream bools
-bEnableLiveStream=false
+
 bEnableLiveStreamInMatch=false
 bShowLiveStreamInMatchByDefault=false
+bEnableLiveStream=false
 
-; Network Acceleration
+
 bEnableSubregionNetworkAccelerators=true
 !DisabledNetworkAcceleratedSubregions=ClearArray
 !AdvertisedNetworkAcceleratedSubregions=ClearArray
 +AdvertisedNetworkAcceleratedSubregions=MUM_S
 
-;Enable all local notifications
 bEnableLocalNotifications=true
-;Add 2 MVP local Notifcations
+
 LocalNotificationsToScheduleByName=(("NewPlayersDay2",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"48"),(ELocalNotificationParams::HoursAfterEvent_Max,"48"),(ELocalNotificationParams::HoursSinceLastSession,"12")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day2",ActivationEvent="NewPlayersDay2")),("NewPlayersDay5_7",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"120"),(ELocalNotificationParams::HoursAfterEvent_Max,"168"),(ELocalNotificationParams::HoursSinceLastSession,"24")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day5_7",ActivationEvent="NewPlayersDay5_7")))
 
-;----- URLs -----
 
-;URL links for Parental Controls
+bCrucibleSendStatsEndOfSession = false
+
+
+
+
 ContentControlsMoreInfoURL="https://epicgames.com/fortnite/parental-controls"
 ContentControlsForgotPinURL="https://epicgames.helpshift.com/a/fortnite/"
 ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"
 
-;Publishing urls
+
 CheckStatusURL="https://status.epicgames.com"
 ListOfCreatorsURL=""
-STWUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-30-patch-notes"
-BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-30-patch-notes"
+STWUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-40-1-patch-notes"
+BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-40-1-patch-notes"
 
-;----- ARRAYS AND SUCH -----
+
+TurnOnMfaURL="https://fortnite.com/2fa"
+
+
 
 +PlaylistConditionalFlags=BR_Portals_Enabled
 
-PlaylistCuratedContent=(("Playlist_Creative_KaleTofu",(CuratedLinkCodes=("1864-6973-4302"))))
+
+PlaylistCuratedContent=(("Playlist_Creative_ZebraWallet_A",(CuratedLinkCodes=("8550-4799-0162"))),("Playlist_Creative_ZebraWallet_D",(CuratedLinkCodes=("7218-3052-0306"))),("Playlist_Creative_ZebraWallet_DH",(CuratedLinkCodes=("6686-5789-9827"))),("Playlist_Creative_ZebraWallet_V",(CuratedLinkCodes=("4895-7557-7194"))),("Playlist_Creative_ZebraWallet_Random",(CuratedLinkCodes=("8550-4799-0162","7218-3052-0306","6686-5789-9827","4895-7557-7194"))),("Playlist_Creative_ZebraWallet_Random2",(CuratedLinkCodes=("8550-4799-0162","7218-3052-0306","6686-5789-9827","4895-7557-7194"))))
 
 +CancelledEvents="ShareTheLove_Open_Duo_NA_Event5"
 +CancelledEvents="ShareTheLove_Prospect_Duo_NA_Event5"
@@ -159,6 +161,7 @@ PlaylistCuratedContent=(("Playlist_Creative_KaleTofu",(CuratedLinkCodes=("1864-6
 +CancelledEvents="ShareTheLove_Contender_Solo_BR_Event5"
 +CancelledEvents="ShareTheLove_Champion_Solo_BR_Event5"
 +CancelledEvents="S10_FNCS_Week3_NAE_Event1"
++CancelledEvents="S10_FNCS_Finals_EU_Event1"
 
 !EventWindowsWithIndividualScoring=ClearArray
 +EventWindowsWithIndividualScoring="GauntletTest_Solo_Event1"
@@ -171,16 +174,18 @@ PlaylistCuratedContent=(("Playlist_Creative_KaleTofu",(CuratedLinkCodes=("1864-6
 +DisabledMatchmakingKnobs="PlaygroundMutator_RespawnLocation:RespawnHeight"
 +DisabledMatchmakingKnobs="CreativeTeamSettings:RespawnHeight"
 +DisabledMatchmakingKnobs="CreativeTeamSettings:NumAIKillsForEndCondition"
-;Disabling Knobs on Hamsterball
+
 +DisabledMatchmakingKnobs="AngleThresholdPreset"
 +DisabledMatchmakingKnobs="DragCoefficientPreset"
 +DisabledMatchmakingKnobs="MaxSpeedKmhPreset"
 +DisabledMatchmakingKnobs="SpringStiffnessPreset"
 +DisabledMatchmakingKnobs="bEnableBoostPreset"
 +DisabledMatchmakingKnobs="bEnableDamagePreset"
-;Disable Name option for spawner and capture area
+
 +DisabledMatchmakingKnobs=PlayerNameFilter
 +DisabledMatchmakingKnobs=LockedPlayerNameSubstring
+
++DisabledGameplayMessages=(MessageOwnerClassName="BP_Creative_ItemSpawner_C", MessageName="TriggerOnReturnedItem")
 
 !bShowFeaturedReplays=ClearArray
 
@@ -230,4 +235,3 @@ PlaylistCuratedContent=(("Playlist_Creative_KaleTofu",(CuratedLinkCodes=("1864-6
 !ExperimentalCohortPercent=ClearArray
 +ExperimentalCohortPercent=(CohortPercent=0,ExperimentNum=193)
 
-;PLEASE don't tack new stuff randomly at the bottom of this file. Try to roughly follow rough structure above.
