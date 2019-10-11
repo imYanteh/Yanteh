@@ -147,6 +147,8 @@ bBattleRoyaleMatchmakingEnabled=true
 +DynamicSoundData=(Name=Jetpack_IdleLoop_Cue, SoundOverrideType=Cue, Volume=0.0)
 +DynamicSoundData=(Name=Jetpack_AccelLoop_Cue, SoundOverrideType=Cue, Volume=0.0)
 +DynamicSoundData=(Name=Goin_Commando_OverheatLoop_Cue_Athena, SoundOverrideType=Cue, Volume=0.0)
++DynamicSoundData=(Name=NightNight_Klaxon_Cue, SoundOverrideType=Cue, Volume=0.0)
++DynamicSoundData=(Name= NightNight_Klaxon_Final_Cue, SoundOverrideType=Cue, Volume=0.0) 
 
 !FrontEndPlaylistData=ClearArray
 
