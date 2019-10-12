@@ -1,7 +1,7 @@
 {
   "_title": "Fortnite Game",
   "_activeDate": "2017-07-24T22:24:02.3Z",
-  "lastModified": "2019-09-25T00:52:06.65Z",
+  "lastModified": "2019-10-12T18:08:15.992Z",
   "_locale": "fr",
   "loginmessage": {
     "_title": "Message de connexion",
@@ -144,9 +144,63 @@
       "_type": "Playlist Information",
       "playlists": [
         {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10BR_ZoneWars_In-Game_ModeTile_Red-1024x512-2e1c5e38b652093029befb6a86a44db844474af8.jpg",
+          "playlist_name": "Playlist_Creative_ZebraWallet_Random2",
+          "violator": "CRÉATION DE LA COMMUNAUTÉ",
+          "_type": "FortPlaylistInfo",
+          "description": "Une simulation de fin de partie de Battle Royale en solo, avec une zone mouvante étroite. Des apparitions et un inventaire aléatoires rendent chaque manche unique. Restez après le premier jeu : il y a plusieurs manches à chaque session.  Guerre de zones est une collection de jeux créés par la communauté. Les quatre cartes de ce mode sont :   Désert créé par JotaPeGame. Code : jotapegame  Rivière créé par Enigma. Code : enigma  Vortex créé par Zeroyahero. Code : zeroyahero  Colisée créé par Jesgran. Code : jesgran",
+          "display_name": "BATAILLE GÉNÉRALE EN SOLO"
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10BR_ZoneWars_In-Game_ModeTile_Blue-1024x512-0f76af6296545de1b2d9da766e76475418bc5940.jpg",
+          "playlist_name": "Playlist_Creative_ZebraWallet_Random",
+          "violator": "CRÉATION DE LA COMMUNAUTÉ",
+          "_type": "FortPlaylistInfo",
+          "description": "Une simulation de fin de partie de Battle Royale en groupe, avec une zone mouvante étroite. Des apparitions et un inventaire aléatoires rendent chaque manche unique. Restez après le premier jeu : il y a plusieurs manches à chaque session.  Guerre de zones est une collection de jeux créés par la communauté. Les quatre cartes de ce mode sont :   Désert créé par JotaPeGame. Code : jotapegame  Rivière créé par Enigma. Code : enigma  Vortex créé par Zeroyahero. Code : zeroyahero  Colisée créé par Jesgran. Code : jesgran",
+          "display_name": "BATAILLE GÉNÉRALE EN GROUPE"
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/FORT_Tile_Tutorial-1024x512-72a618fa185a0bbc26ab6a290bc0a45cf460c576.png",
+          "playlist_name": "Playlist_Tutorial_1",
+          "_type": "FortPlaylistInfo"
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10BR_ZoneWars_In-Game_ModeTile-1024x512-a2741f113a7178ca15d71d281dcc2b614ff90754.jpg",
+          "playlist_name": "Playlist_Creative_ZebraWallet_A",
+          "violator": "BATAILLE GÉNÉRALE EN GROUPE",
+          "_type": "FortPlaylistInfo",
+          "description": "Code jesgran Zone Wars - Arena  Une simulation de fin de partie de Battle Royale en solo, avec une zone mouvante étroite. Éliminez vos adversaires tout en évitant la tempête qui se referme. Des apparitions et un inventaire aléatoires rendent chaque manche unique. Restez après le premier jeu : il y a plusieurs manches à chaque session.  Devenez le gladiateur ultime et régnez sur le Colisée. Cette île de style ouvert requiert une maîtrise de la construction rapide.  Créé par Jesgran.",
+          "display_name": "COLISÉE"
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10BR_ZoneWars_In-Game_ModeTile_Red-1024x512-2e1c5e38b652093029befb6a86a44db844474af8.jpg",
+          "playlist_name": "Playlist_Creative_ZebraWallet_D",
+          "violator": "BATAILLE GÉNÉRALE EN SOLO",
+          "_type": "FortPlaylistInfo",
+          "description": "Code jotapegame Desert Zone Wars 4.1  Une simulation de fin de partie de Battle Royale en solo, avec une zone mouvante étroite. Éliminez vos adversaires tout en évitant la tempête qui se referme. Des apparitions et un inventaire aléatoires rendent chaque manche unique. Restez après le premier jeu : il y a plusieurs manches à chaque session.  Combattez au milieu d'une petite ville du désert et atteignez le dernier cercle. L'assortiment d'armes et de véhicules variés permet une expérience de jeu originale.  Créé par JotaPeGame.",
+          "display_name": "DÉSERT"
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10BR_ZoneWars_In-Game_ModeTile_Blue-1024x512-0f76af6296545de1b2d9da766e76475418bc5940.jpg",
+          "playlist_name": "Playlist_Creative_ZebraWallet_DH",
+          "violator": "BATAILLE GÉNÉRALE EN GROUPE",
+          "_type": "FortPlaylistInfo",
+          "description": "Code enigma S10 Enigmas Downhill River Zonewars X  Une simulation de fin de partie de Battle Royale en solo, avec une zone mouvante étroite. Éliminez vos adversaires tout en évitant la tempête qui se referme. Des apparitions et un inventaire aléatoires rendent chaque manche unique. Restez après le premier jeu : il y a plusieurs manches à chaque session.  Dévalez une colline et traversez une rivière tout en restant dans les limites de la tempête ! Les tremplins communautaires et le trajet constant de la tempête permettent de se familiariser avec le jeu en quelques manches.  Créé par Enigma.",
+          "display_name": "RIVIÈRE"
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10BR_ZoneWars_In-Game_ModeTile_Black-1024x512-23ba95e82931361ce535a643fdac54e120254374.jpg",
+          "playlist_name": "Playlist_Creative_ZebraWallet_V",
+          "violator": "BATAILLE GÉNÉRALE EN GROUPE",
+          "_type": "FortPlaylistInfo",
+          "description": "Code zeroyahero Vortex Zone Wars by Zeroyahero  Une simulation de fin de partie de Battle Royale en solo, avec une zone mouvante étroite. Éliminez vos adversaires tout en évitant la tempête qui se referme. Des apparitions et un inventaire aléatoires rendent chaque manche unique. Restez après le premier jeu : il y a plusieurs manches à chaque session.  La petite originalité de cette Guerre de zones est son terrain montagneux : l'altitude peut varier énormément d'une zone à l'autre !  Créé par Zeroyahero.",
+          "display_name": "VORTEX"
+        },
+        {
           "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10BR_TheCombine_ModeTile-1024x512-3aa8ebdfe1df7d9995e824a781eacdb954ee9615.jpg",
           "playlist_name": "Playlist_Crucible_Solo",
-          "_type": "FortPlaylistInfo"
+          "_type": "FortPlaylistInfo",
+          "display_name": "Le Creuset"
         },
         {
           "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlisttiles/BR_LTM-Tile_Playground-1024x512-53db8a4b5fb41251af279eaf923bc00ecbc17792.jpg",
@@ -955,8 +1009,9 @@
         }
       ]
     },
+    "_noIndex": false,
     "_activeDate": "2018-04-25T15:05:39.956Z",
-    "lastModified": "2019-09-24T12:08:54.185Z",
+    "lastModified": "2019-10-03T14:16:49.971Z",
     "_locale": "fr"
   },
   "tournamentinformation": {
@@ -2877,8 +2932,9 @@
       "messages": []
     },
     "_title": "emergencynotice",
+    "_noIndex": false,
     "_activeDate": "2018-08-06T19:00:26.217Z",
-    "lastModified": "2019-09-24T18:35:42.906Z",
+    "lastModified": "2019-10-10T00:08:55.458Z",
     "_locale": "fr"
   },
   "savetheworldnews": {
@@ -2886,64 +2942,48 @@
       "_type": "Battle Royale News",
       "messages": [
         {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v1040/Timeless-1024x512-f92e317e6c0b2c0190078fd1a3d6d03aabe3e826.jpg",
+          "hidden": false,
+          "_type": "CommonUI Simple Message Base",
+          "adspace": "BIENTÔT TERMINÉ !",
+          "title": "Hors du temps",
+          "body": "Le temps se fracture ! Aidez le directeur Riggs dans sa course contre... ben non, pas contre le temps, vu qu'on vient de le casser...",
+          "spotlight": false
+        },
+        {
           "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v1029/LongRoad-1024x512-5dbbeab6bfe6bdf2ac87ed6dc64f591de28a0a4b.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "adspace": "NOUVEAU !",
+          "adspace": "BIENTÔT TERMINÉ !",
           "title": "Une visite inattendue",
           "body": "Passé et futur se percutent dans cette aventure défiant l'espace-temps ! Aidez Ray, Dennis et Lars à surmonter cette nouvelle épreuve.",
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v1030/Cloaked-1024x512-c2395723287bcede1b3afaadfe691f7c0df27ced.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v1030/Rio-1024x512-4d17893d6d9849f1bd4095028e7128e4b2f4a97e.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "adspace": "MIS À JOUR !",
-          "title": "Sur la route",
-          "body": "L'Étoile occulte est de retour Sur la route !",
-          "spotlight": false
-        },
-        {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v1030/Deciblaster-1024x512-593fbd3b0161fdf34a1714c052aba00b6a24d58b.jpg",
-          "hidden": false,
-          "_type": "CommonUI Simple Message Base",
-          "adspace": "NOUVEAU !",
-          "title": "Décibroyeur",
-          "body": "Réglez-le sur 110% ! Envoyez valdinguer les Carcasses avec ce nouveau lanceur de projectiles rebondissants.",
+          "adspace": "BIENTÔT RETIRÉE !",
+          "title": "Rio, agent de terrain",
+          "body": "Fraîchement promue et prête à rejoindre le terrain ! Rio, agent de terrain est de retour dans la boutique d'événement !",
           "spotlight": false
         }
       ]
     },
     "_title": "SaveTheWorldNews",
+    "_noIndex": false,
     "_activeDate": "2018-08-06T18:25:46.77Z",
-    "lastModified": "2019-09-23T14:04:36.452Z",
+    "lastModified": "2019-10-10T23:53:55.853Z",
     "_locale": "fr"
   },
   "creativeAds": {
     "ad_info": {
-      "ads": [
-        {
-          "sub_header": "",
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/creative-ads/v1030/Heroes-1080x1080-8a22c9ecbbcf359dfc12d1a908bed9d712242058.png",
-          "hidden": false,
-          "_type": "Creative Ad Display Info",
-          "description": "Les préfabriqués Héros et\nméchants sont disponibles !",
-          "header": "Héros et méchants"
-        },
-        {
-          "sub_header": "",
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/creative-ads/v1030/Vending-1080x1080-26ecbef54139c18f4fa7f93da4875c4c26415792.png",
-          "hidden": false,
-          "_type": "Creative Ad Display Info",
-          "description": "Faites apparaître des objets\npendant votre jeu !",
-          "header": "Distributeurs"
-        }
-      ],
+      "ads": [],
       "_type": "Creative Ad Info"
     },
     "_title": "creative-ads",
     "_activeDate": "2018-11-09T20:00:42.3Z",
-    "lastModified": "2019-09-16T14:09:44.287Z",
+    "lastModified": "2019-09-23T14:04:24.532Z",
     "_locale": "fr"
   },
   "playersurvey": {
@@ -3284,6 +3324,65 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
+                "t": "Quel est votre sentiment général sur la <keyword>zone de faille Starry Suburbs</> dans Fortnite: Battle Royale ?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            }
+          ],
+          "r": "rm",
+          "t": "Nous avons besoin de votre avis !",
+          "sg": [
+            "a"
+          ],
+          "id": "190808_LOCC_Starry Suburbs_FNBR",
+          "po": {
+            "_type": "Player Survey - Message"
+          }
+        },
+        {
+          "rt": false,
+          "pr": {
+            "_type": "Player Survey - Message"
+          },
+          "c": [
+            {
+              "cg": {
+                "_type": "Player Survey - Condition - Condition Group",
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+              },
+              "_type": "Player Survey - Condition Container"
+            }
+          ],
+          "hidden": false,
+          "e": false,
+          "_type": "Player Survey - Survey",
+          "cm": {
+            "_type": "Player Survey - Message"
+          },
+          "q": [
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Très négatif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Très positif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
                 "t": "Quel est votre sentiment général sur la <keyword>zone de faille Greasy Grove</> dans Fortnite: Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
@@ -3355,6 +3454,65 @@
             "a"
           ],
           "id": "190808_LOCC_Moisty Palms_FNBR",
+          "po": {
+            "_type": "Player Survey - Message"
+          }
+        },
+        {
+          "rt": false,
+          "pr": {
+            "_type": "Player Survey - Message"
+          },
+          "c": [
+            {
+              "cg": {
+                "_type": "Player Survey - Condition - Condition Group",
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+              },
+              "_type": "Player Survey - Condition Container"
+            }
+          ],
+          "hidden": false,
+          "e": false,
+          "_type": "Player Survey - Survey",
+          "cm": {
+            "_type": "Player Survey - Message"
+          },
+          "q": [
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Très négatif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Très positif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "Quel est votre sentiment général sur le point d'intérêt <keyword>Starry Suburbs</> dans Fortnite: Battle Royale ?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            }
+          ],
+          "r": "rm",
+          "t": "Nous avons besoin de votre avis !",
+          "sg": [
+            "a"
+          ],
+          "id": "190808_POIC_Starry Suburbs_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -5357,6 +5515,65 @@
                 "s": "rating",
                 "c": [
                   {
+                    "t": "Très négatif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Très positif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "Globalement, que pensez-vous du <keyword>rebondisseur</> dans Fortnite Battle Royale ?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            }
+          ],
+          "r": "rm",
+          "t": "Votre avis nous intéresse !",
+          "sg": [
+            "a"
+          ],
+          "id": "190619_ITEMC_Bouncer Trap_FNBR",
+          "po": {
+            "_type": "Player Survey - Message"
+          }
+        },
+        {
+          "rt": false,
+          "pr": {
+            "_type": "Player Survey - Message"
+          },
+          "c": [
+            {
+              "cg": {
+                "_type": "Player Survey - Condition - Condition Group",
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+              },
+              "_type": "Player Survey - Condition Container"
+            }
+          ],
+          "hidden": false,
+          "e": false,
+          "_type": "Player Survey - Survey",
+          "cm": {
+            "_type": "Player Survey - Message"
+          },
+          "q": [
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
                     "t": "Très négative",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
@@ -6625,6 +6842,65 @@
             "a"
           ],
           "id": "190619_ITEMC_Infantry Rifle_FNBR",
+          "po": {
+            "_type": "Player Survey - Message"
+          }
+        },
+        {
+          "rt": false,
+          "pr": {
+            "_type": "Player Survey - Message"
+          },
+          "c": [
+            {
+              "cg": {
+                "_type": "Player Survey - Condition - Condition Group",
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+              },
+              "_type": "Player Survey - Condition Container"
+            }
+          ],
+          "hidden": false,
+          "e": false,
+          "_type": "Player Survey - Survey",
+          "cm": {
+            "_type": "Player Survey - Message"
+          },
+          "q": [
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Très négatif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Très positif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "Globalement, que pensez-vous du <keyword>pistolet à silex</> dans Fortnite Battle Royale ?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            }
+          ],
+          "r": "rm",
+          "t": "Votre avis nous intéresse !",
+          "sg": [
+            "a"
+          ],
+          "id": "190619_ITEMC_Flintknock Pistol_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -9719,7 +9995,7 @@
     },
     "_title": "SubgameInfo",
     "creative": {
-      "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/subgameinfo/SubgameSelect_Default_CM-512x1024-fea1a599232cd80d23b142e42c418ecdf7295769.jpg",
+      "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/subgameinfo/Creative/10BR_ZoneWars_In-Game_SubgameSelect-512x1024-a4f0ce98c755e1266bd382ce96e7cb3a19a49e64.jpg",
       "color": "13BDA1FF",
       "_type": "Subgame Info",
       "description": "Vos îles, vos amis, vos règles.",
@@ -9744,38 +10020,29 @@
       "_type": "Battle Royale News",
       "messages": [
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v1031/Challenges-1024x512-cd7980cda9096d2f9f3b99af5875b5147f734d46.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v10411/Tease-2-1024x512-d4735ddabecf6faf135e661c3e59747dbddb09dc.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "title": "Sauvez Gotham City",
-          "body": "Soyez le héros dont cette ville a besoin en explorant la zone de faille de Gotham City ! Obtenez des récompenses gratuites grâce au pack de défis Bienvenue à Gotham City.",
+          "title": "La fin est proche",
+          "body": "Demain.",
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v1040/Combine-1024x512-3aa8ebdfe1df7d9995e824a781eacdb954ee9615.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v10411/10BR_TheParadigm_MOTD-1024x512-fbf6eb56a1cc16ffaf4e95dbca99671cee5d397d.jpg",
+          "hidden": false,
+          "_type": "CommonUI Simple Message Base",
+          "adspace": "EXCLUSIF !",
+          "title": "Allégeance inconnue",
+          "body": "La nouvelle tenue à durée limitée Paradigme est disponible !",
+          "spotlight": false
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v10411/MartialArts-1024x512-76d3b8576e091875d99feb9e5f7d82f53493df77.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "NOUVEAU !",
-          "title": "Mode Le Creuset",
-          "body": "Vous pensez être capable d'atteindre le sommet du classement de ce terrain d'entraînement ?",
-          "spotlight": false
-        },
-        {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v1040/Dreamy-1024x512-d88563f70759b0f1eb7dbf09afd90e7ee3a9caaa.jpg",
-          "hidden": false,
-          "_type": "CommonUI Simple Message Base",
-          "adspace": "NOUVEAU !",
-          "title": "Rêves enchantés",
-          "body": "Le nouvel ensemble Beaux rêves est disponible !",
-          "spotlight": false
-        },
-        {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/V10/Battlepass-1024x512-b917bb4938d548fb0fbc2c61440b0ef96b1f07dd.png",
-          "hidden": false,
-          "_type": "CommonUI Simple Message Base",
-          "adspace": "",
-          "title": "Passe de combat de la Saison X",
-          "body": "Le Passe de combat de la saison X est disponible ! Jouez tout au long de la saison pour obtenir des tenues, des emotes, des revêtements et plus encore.",
+          "title": "L'art du combat",
+          "body": "Obtenez la nouvelle emote Maître martial dans la boutique d'objets !",
           "spotlight": false
         },
         {
@@ -9786,27 +10053,37 @@
           "title": "Sécurisez votre compte",
           "body": "Les sites proposant des V-bucks gratuits sont de l'arnaque. Epic ne vous demandera jamais votre mot de passe. Activez l'authentification à deux facteurs !",
           "spotlight": false
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/V10/Battlepass-1024x512-b917bb4938d548fb0fbc2c61440b0ef96b1f07dd.png",
+          "hidden": false,
+          "_type": "CommonUI Simple Message Base",
+          "adspace": "",
+          "title": "Passe de combat de la saison X",
+          "body": "Le Passe de combat de la saison X est disponible ! Jouez tout au long de la saison pour obtenir des tenues, des emotes, des revêtements et plus encore.",
+          "spotlight": false
         }
       ]
     },
     "_title": "battleroyalenews",
     "header": "",
     "style": "None",
+    "_noIndex": false,
     "_activeDate": "2018-08-17T16:00:00Z",
-    "lastModified": "2019-09-25T00:52:06.65Z",
+    "lastModified": "2019-10-12T18:08:15.992Z",
     "_locale": "fr"
   },
   "dynamicbackgrounds": {
     "backgrounds": {
       "backgrounds": [
         {
-          "stage": "blackmonday",
+          "stage": "seasonx",
           "_type": "DynamicBackground",
           "key": "lobby"
         },
         {
           "backgroundimage": "https://cdn2.unrealengine.com/Fortnite%2Ffortnite-game%2Flobby%2FT_Background_Summer-2048x1024-37957ac10d82d67eab41c7c87615102307fd9afa.png",
-          "stage": "blackmonday",
+          "stage": "default",
           "_type": "DynamicBackground",
           "key": "vault"
         }
@@ -9823,32 +10100,30 @@
       "_type": "Battle Royale News",
       "messages": [
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v1040/Spooky-1024x512-21dee8f55730c64ccb121137403a3dbfeb924980.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/creativenews/v1041/Meteor-1024x512-8216b64552c24a3c4557d5ea77f9df4571d0f05f.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "NOUVEAU !",
-          "title": "Galerie Accessoires flippants",
-          "body": "Les galeries Accessoires flippants et Particules flippantes offrent une grande variété de bâtiments et de contenu visuel atmosphérique pour les jeux effrayants.",
+          "title": "Galerie Météore",
+          "body": "Ajoutez ce signe de la fin des temps dans vos jeux !",
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v1040/Flashlight-1024x512-f2d33c65f02c03edbb142920edb93f765310ada9.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v1040/ZoneWarsLTMs-1024x512-3da5aeed44d56d5c1f19c4bd5bc2ad2a39abe805.jpg",
           "hidden": false,
           "messagetype": "sale",
           "_type": "CommonUI Simple Message Base",
-          "adspace": "NOUVEAU !",
-          "title": "Lampe, lumières personnalisables",
-          "body": "L'appareil Lampe illumine la zone devant vous quand vous l'équipez. Les lumières personnalisables peuvent être allumées ou éteintes selon les interactions du joueur ou les événements distants.",
+          "adspace": "CRÉATIONS DE LA COMMUNAUTÉ ",
+          "title": "Modes Guerre de zones",
+          "body": "Les Guerres de zones les plus populaires sont disponibles en tant que modes temporaires.",
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v1040/PandoraBlock-1024x512-e8002249500b9b65403f2eb576f0b23cb40222ff.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/creativenews/v1041/BR06_MOTD_SpookyTeamLeader-1024x512-143f0a4edf2ec16351947612b750d8b10baae03d.jpg",
           "hidden": false,
-          "messagetype": "sale",
           "_type": "CommonUI Simple Message Base",
-          "adspace": "NOUVEAU !",
-          "title": "Bloc Pandore",
-          "body": "Découvrez le Bloc Pandore sur la carte de Battle Royale !",
+          "title": "Partagez vos créations effrayantes",
+          "body": "L'ambiance devient lugubre... Montrez-nous ce dont vous êtes capables ! Partagez vos créations effrayantes en utilisant le mot-clé #FortniteFright sur nos réseaux sociaux.",
           "spotlight": false
         }
       ]
@@ -9856,8 +10131,9 @@
     "_title": "Actus créatives",
     "header": "",
     "style": "None",
+    "_noIndex": false,
     "_activeDate": "2018-08-17T16:00:00Z",
-    "lastModified": "2019-09-23T14:17:36.431Z",
+    "lastModified": "2019-10-07T17:17:43.979Z",
     "_locale": "fr"
   },
   "_suggestedPrefetch": []
