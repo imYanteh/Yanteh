@@ -3,7 +3,7 @@
     "client-matchmaking": {
       "states": [
         {
-          "validFrom": "2019-10-02T13:52:38.455Z",
+          "validFrom": "2019-10-13T12:58:23.54Z",
           "activeEvents": [],
           "state": {
             "region": {
@@ -21,10 +21,15 @@
           }
         },
         {
-          "validFrom": "2019-10-02T14:00:00Z",
+          "validFrom": "2019-10-13T13:00:00Z",
           "activeEvents": [],
           "state": {
             "region": {
+              "BR": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              },
               "OCE": {
                 "eventFlagsForcedOff": [
                   "Playlist_DefaultDuo"
@@ -34,66 +39,205 @@
           }
         },
         {
-          "validFrom": "2019-10-02T15:00:00Z",
+          "validFrom": "2019-10-13T13:30:00Z",
           "activeEvents": [],
           "state": {
             "region": {
-              "OCE": {
-                "eventFlagsForcedOff": [
-                  "Playlist_DefaultDuo"
-                ]
-              },
-              "CN": {
-                "eventFlagsForcedOff": [
-                  "Playlist_DefaultDuo"
-                ]
-              }
-            }
-          }
-        },
-        {
-          "validFrom": "2019-10-02T16:00:00Z",
-          "activeEvents": [],
-          "state": {
-            "region": {
-              "OCE": {
-                "eventFlagsForcedOff": [
-                  "Playlist_DefaultDuo"
-                ]
-              },
-              "CN": {
+              "BR": {
                 "eventFlagsForcedOff": [
                   "Playlist_DefaultDuo",
-                  "Playlist_Deimos_DuoCN"
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
                 ]
               },
-              "REGIONID": {
+              "OCE": {
                 "eventFlagsForcedOff": [
-                  "Playlist_Deimos_Duo_WinterCN"
+                  "Playlist_DefaultDuo",
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "NAE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "NAW": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "EU": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "ASIA": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "NA": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "ME": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "validFrom": "2019-10-13T14:00:00Z",
+          "activeEvents": [],
+          "state": {
+            "region": {
+              "OCE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo",
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "NAE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "NAW": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "EU": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "BR": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "ASIA": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "NA": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "ME": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "validFrom": "2019-10-13T15:00:00Z",
+          "activeEvents": [],
+          "state": {
+            "region": {
+              "OCE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo",
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "NAE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "NAW": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "EU": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "BR": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "ASIA": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "NA": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "ME": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Playground",
+                  "Playlist_Creative_PlayOnly"
+                ]
+              },
+              "CN": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
                 ]
               }
             }
           }
         }
       ],
-      "cacheExpire": "2019-10-02T15:52:38.455Z"
+      "cacheExpire": "2019-10-13T14:58:23.54Z"
     },
     "tk": {
       "states": [
         {
-          "validFrom": "2019-10-02T13:52:38.455Z",
+          "validFrom": "2019-10-13T12:58:23.54Z",
           "activeEvents": [],
           "state": {
-            "k": []
+            "k": [
+              "4F463077C4B0260225A47547ABFDDEE3:jvXG7IisBPOlXz80kl6hZdn+jb6TV0Bvq1WafaHji44=",
+              "78FA1DF9C04F25EC129AA57492626563:AZT1/Asa4CuxdTtvLrw9nlEcxfOuoTnLbSLztfs7QQ4=",
+              "CDCC968B6DEB5D05990F5D530A4B19D0:gAiLmJxr4FbEf/L10sgHjOLE8DEy7kYdtk7DJcgjPRM="
+            ]
           }
         }
       ],
-      "cacheExpire": "2019-10-02T15:52:38.455Z"
+      "cacheExpire": "2019-10-13T14:58:23.54Z"
     },
     "community-votes": {
       "states": [
         {
-          "validFrom": "2019-10-02T13:52:38.455Z",
+          "validFrom": "2019-10-13T12:58:23.54Z",
           "activeEvents": [],
           "state": {
             "electionId": "",
@@ -103,12 +247,12 @@
           }
         }
       ],
-      "cacheExpire": "2019-10-02T15:52:38.455Z"
+      "cacheExpire": "2019-10-13T14:58:23.54Z"
     },
     "client-events": {
       "states": [
         {
-          "validFrom": "2019-10-02T13:52:38.455Z",
+          "validFrom": "2019-10-13T12:58:23.54Z",
           "activeEvents": [
             {
               "eventType": "EventFlag.Season10",
@@ -191,19 +335,24 @@
               "activeSince": "2019-09-14T13:00:00Z"
             },
             {
-              "eventType": "EventFlag.Mayday.Quests.Phase9",
-              "activeUntil": "2019-10-03T00:00:00Z",
-              "activeSince": "2019-09-26T00:00:00Z"
+              "eventType": "EventFlag.Mayday.Quests.Phase10",
+              "activeUntil": "2019-10-23T00:00:00Z",
+              "activeSince": "2019-10-03T00:00:00Z"
             },
             {
-              "eventType": "EventFlag.Season10_UrgentMission_9",
-              "activeUntil": "2019-10-03T13:00:00Z",
-              "activeSince": "2019-09-26T13:00:00Z"
+              "eventType": "EventFlag.Season10_UrgentMission_10",
+              "activeUntil": "2019-10-13T18:00:00Z",
+              "activeSince": "2019-10-03T13:00:00Z"
             },
             {
-              "eventType": "EventFlag.LTM_ZebraWallet",
-              "activeUntil": "2019-10-07T13:00:00Z",
-              "activeSince": "2019-09-27T12:00:00Z"
+              "eventType": "EventFlag.S10_NightNight",
+              "activeUntil": "2019-10-13T18:00:00Z",
+              "activeSince": "2019-10-08T13:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.LTE_S10_Overtime",
+              "activeUntil": "2019-10-13T18:00:00Z",
+              "activeSince": "2019-10-08T13:00:00Z"
             }
           ],
           "state": {
@@ -219,20 +368,28 @@
                 "eventType": "EventFlag.S10_Mystery"
               },
               {
-                "instanceId": "6p5bmfu83h4savjtral1abr9kk[2]0",
-                "devName": "Season10_UrgentMission_009",
-                "eventName": "CalendarEvent_Season10_UrgentMission_9",
-                "eventStart": "2019-09-26T13:00:00Z",
-                "eventEnd": "2019-10-03T13:00:00Z",
-                "eventType": "EventFlag.Season10_UrgentMission_9"
+                "instanceId": "7cf7jpdj33thlftsd93flifnet[2]0",
+                "devName": "Season10_UrgentMission_010",
+                "eventName": "CalendarEvent_Season10_UrgentMission_10",
+                "eventStart": "2019-10-03T13:00:00Z",
+                "eventEnd": "2019-10-13T18:00:00Z",
+                "eventType": "EventFlag.Season10_UrgentMission_10"
               },
               {
-                "instanceId": "6tvmlkgv2fk3vpif70r01hdaid[2]0",
-                "devName": "Event_ZebraWallet",
-                "eventName": "CalendarEvent_Season10_ZebraWallet",
-                "eventStart": "2019-09-27T12:00:00Z",
-                "eventEnd": "2019-10-07T13:00:00Z",
-                "eventType": "EventFlag.LTM_ZebraWallet"
+                "instanceId": "6603m46dt3vrpdf5bqeie08gjg[2]0",
+                "devName": "Season10_NightNight",
+                "eventName": "CalendarEvent_Season10_NightNight",
+                "eventStart": "2019-10-08T13:00:00Z",
+                "eventEnd": "2019-10-13T18:00:00Z",
+                "eventType": "EventFlag.S10_NightNight"
+              },
+              {
+                "instanceId": "605jhnm5v5fmnjdo9lofapndnf[2]0",
+                "devName": "Event_Season10_Overtime",
+                "eventName": "CalendarEvent_Season10_Overtime",
+                "eventStart": "2019-10-08T13:00:00Z",
+                "eventEnd": "2019-10-13T18:00:00Z",
+                "eventType": "EventFlag.LTE_S10_Overtime"
               }
             ],
             "seasonNumber": 10,
@@ -241,17 +398,17 @@
             "seasonBegin": "2019-07-30T13:00:00Z",
             "seasonEnd": "2019-10-17T14:00:00Z",
             "seasonDisplayedEnd": "2019-10-13T14:00:00Z",
-            "weeklyStoreEnd": "2019-10-03T00:00:00Z",
+            "weeklyStoreEnd": "2019-10-14T00:00:00Z",
             "stwEventStoreEnd": "2019-10-16T00:00:00Z",
-            "stwWeeklyStoreEnd": "2019-10-03T00:00:00Z",
-            "dailyStoreEnd": "2019-10-03T00:00:00Z"
+            "stwWeeklyStoreEnd": "2019-10-17T00:00:00Z",
+            "dailyStoreEnd": "2019-10-14T00:00:00Z"
           }
         }
       ],
-      "cacheExpire": "2019-10-02T15:52:38.455Z"
+      "cacheExpire": "2019-10-13T14:58:23.54Z"
     }
   },
   "eventsTimeOffsetHrs": 0.0,
   "cacheIntervalMins": 15.0,
-  "currentTime": "2019-10-02T14:17:12.006Z"
+  "currentTime": "2019-10-13T13:25:11.819Z"
 }
