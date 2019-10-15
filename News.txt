@@ -1,7 +1,7 @@
 {
   "_title": "Fortnite Game",
   "_activeDate": "2017-07-24T22:24:02.3Z",
-  "lastModified": "2019-10-12T18:08:15.992Z",
+  "lastModified": "2019-10-15T19:16:45.972Z",
   "_locale": "fr",
   "loginmessage": {
     "_title": "Message de connexion",
@@ -105,35 +105,35 @@
       "messages": [
         {
           "layout": "Right Image",
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battle-pass-about/Season_8/10BR_BP-Launch_Upsell_HowDoesItWork-1024x1024-924a445bb2ec3426cfca4a9b4d2c5d3ac69b6691.png",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battle-pass-about/Season_8/11BR_Launch_Upsell_HowDoesItWork-1024x1024-faa688dad8111f0a944c351dd7b11e4bff3562aa.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "title": "COMMENT ÇA MARCHE ?",
-          "body": "Jouez pour augmenter le niveau du Passe de combat. Plus vous jouez, plus vous obtenez de récompenses. Accomplissez les défis hebdomadaires pour monter plus vite en niveau. Gagnez plus de 100 récompenses d'une valeur supérieure à 25 000 V-bucks (nécessite entre 75 et 150 heures de jeu). Vous pouvez acheter le Passe de combat à tout moment de la saison pour 950 V-bucks.",
+          "body": "Jouez pour augmenter le niveau du Passe de combat. Gagnez de l'EXP en effectuant diverses activités dans le jeu, dont fouiller des coffres, éliminer des adversaires ou accomplir des défis ! Montez en niveau pour déverrouiller plus de 100 récompenses, dont 1500 V-bucks ! Vous pouvez acheter le Passe de combat à tout moment de la saison pour 950 V-bucks, ce qui déverrouille rétroactivement toutes les récompenses jusqu'à votre niveau actuel.",
           "spotlight": false
         },
         {
           "layout": "Left Image",
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battle-pass-about/Season_8/10BR_BP-Launch_Upsell_WhatsInside-1024x1024-c13150127a57b6a689e16f9fabb786e1abe903d5.png",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battle-pass-about/Season_8/11BR_Launch_Upsell_WhatsInside-(1)-1024x1024-68356adb3844b46ada633ace2d168af74b446f35.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "title": "IL Y A QUOI DEDANS ?",
-          "body": "Dès que vous achetez le Passe de combat, vous recevez deux tenues exclusives : Maître occulte et Déclic ! Plein d'autres récompenses vous attendent ensuite : emotes, tenues, revêtements, compagnons, pioches, écrans de chargement et autres surprises. Vous recevez une récompense par niveau gagné, avec plus de 100 objets sur 100 paliers.",
+          "body": "Dès que vous achetez le Passe de combat, vous recevez deux tenues exclusives : Marin et Apogée ! Plein d'autres récompenses vous attendent ensuite : emotes, tenues, revêtements, pioches, écrans de chargement et autres. Vous recevez une récompense par niveau gagné et, pour la première fois, vous pouvez continuer à gagner des niveaux au-delà de 100 !",
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battle-pass-about/Season_8/10BR_BP-Launch_Upsell_Missions-1024x1024-841838346e124bb2e1f447c8d136b9775f06830c.png",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battle-pass-about/Season_8/11BR_Launch_Upsell_Badges-1024x1024-94b54a7e241b5747d83095feb1e6fc330c49689f.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "title": "NOUVEAU : LES MISSIONS !",
-          "body": "Une nouvelle façon de progresser dans le Passe de combat ! Accomplissez des objectifs thématiques pour obtenir des étoiles de combat, de l'EXP et des objets cosmétiques supplémentaires. Certaines missions peuvent être rejouées une fois tous les objectifs accomplis, ce qui permet de déverrouiller encore plus de récompenses en relevant les nouveaux objectifs plus difficiles.",
+          "title": "Nouveau : les médailles !",
+          "body": "La progression dans le Passe de combat a été entièrement refaite cette saison. Avancez dans le Passe de combat en accomplissant des défis et en gagnant des médailles quotidiennes dans le jeu ! Complétez votre collection de médailles afin de maximiser vos gains d'EXP.",
           "spotlight": false
         }
       ]
     },
     "_title": "À propos du Passe de combat",
     "_activeDate": "2018-06-20T18:15:07.002Z",
-    "lastModified": "2019-07-31T20:56:08.664Z",
+    "lastModified": "2019-10-14T20:39:32.52Z",
     "_locale": "fr"
   },
   "playlistinformation": {
@@ -438,7 +438,7 @@
           "_type": "FortPlaylistInfo"
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/09BR_RobotFight_ModeTile-1024x512-2a5383ab45d733d276100a14092da01c5db66fb7.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10BR_In-Game_Farewell_ModeTile-1024x512-3c6326529cb23dbe465594a4266f2054ba52e4ad.jpg",
           "playlist_name": "Playlist_Music_High",
           "violator": "",
           "_type": "FortPlaylistInfo"
@@ -597,7 +597,7 @@
           "_type": "FortPlaylistInfo"
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10BR_Launch_ModeTiles_Trios_v3-1024x512-babb197c1efb94bf54ef654e8809e1b493f5ad25.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/11BR_Launch_ModeTiles_Trios-1024x512-8ef1dd32631d500736e63f781784430456607c0e.jpg",
           "playlist_name": "Playlist_Trios",
           "_type": "FortPlaylistInfo"
         },
@@ -990,19 +990,19 @@
           "_type": "FortPlaylistInfo"
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10BR_Launch_ModeTiles_Solo-1024x512-6daf5706c1dbd9ce8c3e957933054a821a266927.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/11BR_Launch_ModeTiles_Solo-1024x512-867508f824d65b998c1e11180306eeb720b1aa11.jpg",
           "playlist_name": "Playlist_DefaultSolo",
           "special_border": "None",
           "_type": "FortPlaylistInfo"
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10BR_Launch_ModeTiles_Duos-1024x512-216bf4710dda9fc9a7834c63e33bffa2bf103833.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/11BR_Launch_ModeTiles_Duos-1024x512-b73da22f5ef25695bd78814e0c708253a2cfd66b.jpg",
           "playlist_name": "Playlist_DefaultDuo",
           "special_border": "None",
           "_type": "FortPlaylistInfo"
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10BR_Launch_ModeTiles_Squad-1024x512-4cc69a8feaab758fd9e254f3aca5479e0851d2f4.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/11BR_Launch_ModeTiles_Squad-1024x512-4bca2b25311bd5b8c6bd4a4aa32b2bfa2fadbf78.jpg",
           "playlist_name": "Playlist_DefaultSquad",
           "special_border": "None",
           "_type": "FortPlaylistInfo"
@@ -1011,12 +1011,20 @@
     },
     "_noIndex": false,
     "_activeDate": "2018-04-25T15:05:39.956Z",
-    "lastModified": "2019-10-03T14:16:49.971Z",
+    "lastModified": "2019-10-14T12:40:10.996Z",
     "_locale": "fr"
   },
   "tournamentinformation": {
     "tournament_info": {
       "tournaments": [
+        {
+          "title_line_1": "ARÈNE",
+          "loading_screen_image": "https://cdn2.unrealengine.com/Fortnite%2Ffortnite-game%2Ftournaments%2F11BR_Arena_ModeTiles_Squad_ModeTile-1024x512-c543a187ce733be5ee9f6d17bfb74fb1f2e15f4a.jpg",
+          "_type": "Tournament Display Info",
+          "poster_back_image": "https://cdn2.unrealengine.com/Fortnite%2Ffortnite-game%2Ftournaments%2FAlchemist-_Solo_Back-750x1080-6f392a5b4362ee1c49f1615521f4f8b017125e37.jpg",
+          "tournament_display_id": "arena_squads",
+          "playlist_tile_image": "https://cdn2.unrealengine.com/Fortnite%2Ffortnite-game%2Ftournaments%2F11BR_Arena_ModeTiles_Squad_ModeTile-1024x512-c543a187ce733be5ee9f6d17bfb74fb1f2e15f4a.jpg"
+        },
         {
           "title_color": "6B0356",
           "loading_screen_image": "https://cdn2.unrealengine.com/Fortnite%2Ffortnite-game%2Ftournaments%2FSeason-X%2F10BR_InGame_CashCup_ModeTile_Champ_Trios-1024x512-c554b964050e5b380a53bab6980bdee9938b9838.jpg",
@@ -2921,8 +2929,9 @@
       "_type": "Tournaments Info"
     },
     "_title": "tournamentinformation",
+    "_noIndex": false,
     "_activeDate": "2018-11-13T22:32:47.734Z",
-    "lastModified": "2019-08-23T18:07:55.721Z",
+    "lastModified": "2019-10-15T10:40:31.017Z",
     "_locale": "fr"
   },
   "emergencynotice": {
@@ -2934,7 +2943,7 @@
     "_title": "emergencynotice",
     "_noIndex": false,
     "_activeDate": "2018-08-06T19:00:26.217Z",
-    "lastModified": "2019-10-10T00:08:55.458Z",
+    "lastModified": "2019-10-13T18:42:31.082Z",
     "_locale": "fr"
   },
   "savetheworldnews": {
@@ -2942,30 +2951,38 @@
       "_type": "Battle Royale News",
       "messages": [
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v1040/Timeless-1024x512-f92e317e6c0b2c0190078fd1a3d6d03aabe3e826.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v11/Bot-1024x512-457d1150c23a2a48c23272a0a741ba9f01d3a11a.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "adspace": "BIENTÔT TERMINÉ !",
-          "title": "Hors du temps",
-          "body": "Le temps se fracture ! Aidez le directeur Riggs dans sa course contre... ben non, pas contre le temps, vu qu'on vient de le casser...",
+          "adspace": "BOUTIQUE D'ÉVÉNEMENT",
+          "title": "Robot-JONESEE",
+          "body": "SILENCE. Ce nouveau Soldat robotique peut prédire votre future victoire.",
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v1029/LongRoad-1024x512-5dbbeab6bfe6bdf2ac87ed6dc64f591de28a0a4b.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v11/Igor-1024x512-34453270b42cdc12a41714437cb136c2b3911fb3.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "adspace": "BIENTÔT TERMINÉ !",
-          "title": "Une visite inattendue",
-          "body": "Passé et futur se percutent dans cette aventure défiant l'espace-temps ! Aidez Ray, Dennis et Lars à surmonter cette nouvelle épreuve.",
+          "adspace": "BOUTIQUE D'ÉVÉNEMENT",
+          "title": "Igor, médecin antipeste",
+          "body": "Quelqu'un a demandé un docteur ?",
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v1030/Rio-1024x512-4d17893d6d9849f1bd4095028e7128e4b2f4a97e.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/v11/WildWest-1024x512-0351b521a2377c58abb92ac243efe67f7346c051.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "adspace": "BIENTÔT RETIRÉE !",
-          "title": "Rio, agent de terrain",
-          "body": "Fraîchement promue et prête à rejoindre le terrain ! Rio, agent de terrain est de retour dans la boutique d'événement !",
+          "adspace": "NOUVEAU !",
+          "title": "Lamas du Far West",
+          "body": "Le lama du Far West est de retour pour une durée limitée ! Contient de nouveaux objets comme Calamité et l'ensemble d'armes à silex complet.",
+          "spotlight": false
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/StW05_MOTD-1024x512_AntiScam-1024x512-1371b58ec57f89e3e6a5946f4f5b6ad5620edabe.jpg",
+          "hidden": false,
+          "_type": "CommonUI Simple Message Base",
+          "title": "Sécurisez votre compte",
+          "body": "Les sites proposant des V-bucks gratuits sont de l'arnaque. Epic ne vous demandera jamais votre mot de passe. Activez l'authentification à deux facteurs !",
           "spotlight": false
         }
       ]
@@ -2973,7 +2990,7 @@
     "_title": "SaveTheWorldNews",
     "_noIndex": false,
     "_activeDate": "2018-08-06T18:25:46.77Z",
-    "lastModified": "2019-10-10T23:53:55.853Z",
+    "lastModified": "2019-10-14T19:27:58.147Z",
     "_locale": "fr"
   },
   "creativeAds": {
@@ -3032,653 +3049,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Quel est votre sentiment général sur le <keyword>Lance-grappin de Batman</> dans Fortnite: Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Nous avons besoin de votre avis !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Batman Grapnel Gun_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Quel est votre sentiment général sur le <keyword>batarang explosif</> dans Fortnite: Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Nous avons besoin de votre avis !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Explosive Batarang_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Quel est votre sentiment général sur la <keyword>zone de faille Gotham City</> dans Fortnite: Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "rt": false,
-          "r": "rm",
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "t": "Nous avons besoin de votre avis !",
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "id": "190808_LOCC_Gotham City_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Quel est votre sentiment général sur le point d'intérêt <keyword>Gotham City</> dans Fortnite: Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Nous avons besoin de votre avis !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_POIC_Gotham City_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Quel est votre sentiment général sur le <keyword>Pistolet-mitrailleur tactique</> dans Fortnite: Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Nous avons besoin de votre avis !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Tactical SMG_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Quel est votre sentiment général sur la <keyword>zone de faille Starry Suburbs</> dans Fortnite: Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Nous avons besoin de votre avis !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_LOCC_Starry Suburbs_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Quel est votre sentiment général sur la <keyword>zone de faille Greasy Grove</> dans Fortnite: Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Nous avons besoin de votre avis !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_LOCC_Greasy Grove_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Quel est votre sentiment général sur la <keyword>zone de faille Moisty Palms</> dans Fortnite: Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Nous avons besoin de votre avis !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_LOCC_Moisty Palms_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Quel est votre sentiment général sur le point d'intérêt <keyword>Starry Suburbs</> dans Fortnite: Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Nous avons besoin de votre avis !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_POIC_Starry Suburbs_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Quel est votre sentiment général sur le point d'intérêt <keyword>Moisty Palms</> dans Fortnite: Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Nous avons besoin de votre avis !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_POIC_Moisty Palms_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Quel est votre sentiment général sur le point d'intérêt <keyword>Greasy Grove</> dans Fortnite: Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Nous avons besoin de votre avis !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_POIC_Greasy Grove_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négative",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positive",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous de la <keyword>zone de faille de l'île volante</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Slurpy Swamp</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -3689,7 +3060,7 @@
           "sg": [
             "a"
           ],
-          "id": "190808_LOCC_Floating Island_FNBR",
+          "id": "190924_POIC_Slurpy Swamp_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -3737,7 +3108,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Fatal Fields</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Holly Hedges</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -3748,7 +3119,7 @@
           "sg": [
             "a"
           ],
-          "id": "190808_POIC_Fatal Fields_FNBR",
+          "id": "190924_POIC_Holly Hedges_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -3796,7 +3167,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Lucky Landing</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Salty Springs</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -3807,7 +3178,7 @@
           "sg": [
             "a"
           ],
-          "id": "190808_POIC_Lucky Landing_FNBR",
+          "id": "190924_POIC_Salty Springs_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -3855,7 +3226,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Happy Hamlet</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Steamy Stacks</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -3866,7 +3237,7 @@
           "sg": [
             "a"
           ],
-          "id": "190808_POIC_Happy Hamlet_FNBR",
+          "id": "190924_POIC_Steamy Stacks_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -3914,7 +3285,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Salty Springs</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Dirty Docks</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -3925,7 +3296,7 @@
           "sg": [
             "a"
           ],
-          "id": "190808_POIC_Salty Springs_FNBR",
+          "id": "190924_POIC_Dirty Docks_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -3973,7 +3344,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Shifty Shafts</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Misty Meadows</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -3984,7 +3355,7 @@
           "sg": [
             "a"
           ],
-          "id": "190808_POIC_Shifty Shafts_FNBR",
+          "id": "190924_POIC_Misty Meadows_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -4032,7 +3403,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Polar Peak</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Frenzy Farm</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -4043,7 +3414,7 @@
           "sg": [
             "a"
           ],
-          "id": "190808_POIC_Polar Peak_FNBR",
+          "id": "190924_POIC_Frenzy Farm_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -4091,7 +3462,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Frosty Flights</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Pleasant Park</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -4102,7 +3473,7 @@
           "sg": [
             "a"
           ],
-          "id": "190808_POIC_Frosty Flights_FNBR",
+          "id": "190924_POIC_Pleasant Park_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -4150,7 +3521,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Lonely Lodge</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Retail Row</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -4161,7 +3532,7 @@
           "sg": [
             "a"
           ],
-          "id": "190808_POIC_Lonely Lodge_FNBR",
+          "id": "190924_POIC_Retail Row_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -4209,7 +3580,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Retail Row</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Lazy Lake</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -4220,7 +3591,7 @@
           "sg": [
             "a"
           ],
-          "id": "190808_POIC_Retail Row_FNBR",
+          "id": "190924_POIC_Lazy Lake_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -4268,7 +3639,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Dusty Depot</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Weeping Woods</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -4279,1094 +3650,7 @@
           "sg": [
             "a"
           ],
-          "id": "190808_POIC_Dusty Depot_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Loot Lake</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_POIC_Loot Lake_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Snobby Shores</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_POIC_Snobby Shores_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Sunny Steps</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_POIC_Sunny Steps_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Pressure Plant</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_POIC_Pressure Plant_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Lazy Lagoon</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_POIC_Lazy Lagoon_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Pleasant Park</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_POIC_Pleasant Park_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Haunted Hills</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_POIC_Haunted Hills_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Junk Junction</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_POIC_Junk Junction_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négative",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positive",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous de la <keyword>zone de faille de Retail Row</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190808_LOCC_Retail Row_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "t": "",
-            "_type": "Player Survey - Message",
-            "m": ""
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>piège électrique</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Zapper Trap_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négative",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positive",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous de la <keyword>bulle protectrice</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Shield Bubble_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négative",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positive",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous de la <keyword>Faille à débris</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Junk Rift_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>fusil de sniper auto</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Automatic Sniper Rifle_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très mauvaise",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très bonne",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Évaluez la <keyword>valeur</> des contenus du Passe de combat saison X.",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            },
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très mauvaise",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très bonne",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Évaluez la <keyword>qualité</> des contenus du Passe de combat saison X.",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            },
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très mauvaise",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très bonne",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Évaluez la <keyword>diversité</> des contenus du Passe de combat saison X.",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190731BattlePassXSentiment",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Pas motivé",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très motivé",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Avez-vous la motivation d'accomplir totalement le Passe de combat saison X ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            },
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Pas motivé",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très motivé",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Avez-vous la motivation d'accomplir totalement les <keyword>missions à durée limitée</> dans le Passe de combat saison X ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190731BattlePassXMotivation",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous de la <keyword>B.R.U.T.E.</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Brute_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>revolver</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Revolver_FNBR",
+          "id": "190924_POIC_Weeping Woods_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -5414,7 +3698,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous des versions épique et légendaire du <keyword>fusil à pompe tactique</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Craggy Cliffs</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -5425,66 +3709,7 @@
           "sg": [
             "a"
           ],
-          "id": "190619_ITEMC_Tactical Shotgun_EandL_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatives",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positives",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous des versions épique et légendaire du <keyword>revolver</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Revolver_EandL_FNBR",
+          "id": "190924_POIC_Craggy Cliffs_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -5532,7 +3757,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du <keyword>rebondisseur</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du point d'intérêt <keyword>Sweaty Sands</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -5543,7 +3768,243 @@
           "sg": [
             "a"
           ],
-          "id": "190619_ITEMC_Bouncer Trap_FNBR",
+          "id": "190924_POIC_Sweaty Sands_FNBR",
+          "po": {
+            "_type": "Player Survey - Message"
+          }
+        },
+        {
+          "rt": false,
+          "pr": {
+            "_type": "Player Survey - Message"
+          },
+          "c": [
+            {
+              "cg": {
+                "_type": "Player Survey - Condition - Condition Group",
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+              },
+              "_type": "Player Survey - Condition Container"
+            }
+          ],
+          "hidden": false,
+          "e": false,
+          "_type": "Player Survey - Survey",
+          "cm": {
+            "_type": "Player Survey - Message"
+          },
+          "q": [
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Très négatives",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Très positive",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "Globalement, que pensez-vous des <keyword>cachettes</> (bennes à ordures, meules de foin, etc.) dans Fortnite Battle Royale ?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            }
+          ],
+          "r": "rm",
+          "t": "Votre avis nous intéresse !",
+          "sg": [
+            "a"
+          ],
+          "id": "190924_ITEMC_Hideouts_FNBR",
+          "po": {
+            "_type": "Player Survey - Message"
+          }
+        },
+        {
+          "rt": false,
+          "pr": {
+            "_type": "Player Survey - Message"
+          },
+          "c": [
+            {
+              "cg": {
+                "_type": "Player Survey - Condition - Condition Group",
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+              },
+              "_type": "Player Survey - Condition Container"
+            }
+          ],
+          "hidden": false,
+          "e": false,
+          "_type": "Player Survey - Survey",
+          "cm": {
+            "_type": "Player Survey - Message"
+          },
+          "q": [
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Très négatif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Très positif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "Globalement, que pensez-vous de la <keyword>canne à pêche</> dans Fortnite Battle Royale ?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            }
+          ],
+          "r": "rm",
+          "t": "Votre avis nous intéresse !",
+          "sg": [
+            "a"
+          ],
+          "id": "190924_ITEMC_Fishing Rod_FNBR",
+          "po": {
+            "_type": "Player Survey - Message"
+          }
+        },
+        {
+          "rt": false,
+          "pr": {
+            "_type": "Player Survey - Message"
+          },
+          "c": [
+            {
+              "cg": {
+                "_type": "Player Survey - Condition - Condition Group",
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+              },
+              "_type": "Player Survey - Condition Container"
+            }
+          ],
+          "hidden": false,
+          "e": false,
+          "_type": "Player Survey - Survey",
+          "cm": {
+            "_type": "Player Survey - Message"
+          },
+          "q": [
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Très négatif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Très positif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "Globalement, que pensez-vous de l'<keyword>établi d'amélioration</> dans Fortnite Battle Royale ?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            }
+          ],
+          "r": "rm",
+          "t": "Votre avis nous intéresse !",
+          "sg": [
+            "a"
+          ],
+          "id": "190924_ITEMC_Upgrade Bench_FNBR",
+          "po": {
+            "_type": "Player Survey - Message"
+          }
+        },
+        {
+          "rt": false,
+          "pr": {
+            "_type": "Player Survey - Message"
+          },
+          "c": [
+            {
+              "cg": {
+                "_type": "Player Survey - Condition - Condition Group",
+                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+              },
+              "_type": "Player Survey - Condition Container"
+            }
+          ],
+          "hidden": false,
+          "e": false,
+          "_type": "Player Survey - Survey",
+          "cm": {
+            "_type": "Player Survey - Message"
+          },
+          "q": [
+            {
+              "mc": {
+                "s": "rating",
+                "c": [
+                  {
+                    "t": "Très négatif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  },
+                  {
+                    "t": "Très positif",
+                    "_type": "Player Survey - Multiple Choice Question Choice"
+                  }
+                ],
+                "t": "Globalement, que pensez-vous du <keyword>bazooka à bandage</> dans Fortnite Battle Royale ?",
+                "_type": "Player Survey - Multiple Choice Question"
+              },
+              "_type": "Player Survey - Question Container"
+            }
+          ],
+          "r": "rm",
+          "t": "Votre avis nous intéresse !",
+          "sg": [
+            "a"
+          ],
+          "id": "190924_ITEMC_Bandage Bazooka_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -5591,7 +4052,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous de la <keyword>grenade à onde de choc</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du <keyword>canot motorisé</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -5602,7 +4063,7 @@
           "sg": [
             "a"
           ],
-          "id": "190619_ITEMC_Shockwave Grenade_FNBR",
+          "id": "190924_ITEMC_Motorboat_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -5633,7 +4094,7 @@
                 "s": "rating",
                 "c": [
                   {
-                    "t": "Très négatif",
+                    "t": "Très négatifs",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
@@ -5646,11 +4107,11 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
-                    "t": "Très positif",
+                    "t": "Très positifs",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du <keyword>fusil d'assaut à silencieux</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du <keyword>pistolet-mitrailleur</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -5661,7 +4122,7 @@
           "sg": [
             "a"
           ],
-          "id": "190619_ITEMC_Suppressed Assault Rifle_FNBR",
+          "id": "190619_ITEMC_Submachine Gun_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -5692,7 +4153,7 @@
                 "s": "rating",
                 "c": [
                   {
-                    "t": "Très négatif",
+                    "t": "Très négatives",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
@@ -5705,7 +4166,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
-                    "t": "Très positif",
+                    "t": "Très positives",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
@@ -5827,7 +4288,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du <keyword>pistolet-mitrailleur à silencieux</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous du <keyword>fusil d'assaut à rafale</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -5838,66 +4299,7 @@
           "sg": [
             "a"
           ],
-          "id": "190619_ITEMC_Suppressed Submachine Gun_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous de l'<keyword>aspergeur du brave</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Chug Splash_FNBR",
+          "id": "190619_ITEMC_Burst Assault Rifle_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -5942,65 +4344,6 @@
                   },
                   {
                     "t": "Très positive",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous de l'<keyword>aéroplanche</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Driftboard_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
@@ -6016,183 +4359,6 @@
             "a"
           ],
           "id": "190619_ITEMC_Damage Trap_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>tremplin</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Launch Pad_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>feu de camp</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Cozy Campfire_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négative",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positive",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous de la <keyword>bombe empoisonnée</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Stink Bomb_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -6299,65 +4465,6 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du <keyword>bleuvage</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Slurp Juice_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négative",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positive",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
                 "t": "Globalement, que pensez-vous de la <keyword>potion de bouclier</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
@@ -6459,7 +4566,7 @@
                 "s": "rating",
                 "c": [
                   {
-                    "t": "Très négatives",
+                    "t": "Très négatif",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
@@ -6472,11 +4579,11 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
-                    "t": "Très positives",
+                    "t": "Très positif",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous des <keyword>grenades</> dans Fortnite Battle Royale ?",
+                "t": "Globalement, que pensez-vous de la <keyword>grenade</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -6535,183 +4642,6 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous de la <keyword>gourde du brave</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Chug Jug_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>buisson</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Bush_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négative",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positive",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous de la <keyword>bombe boogie-woogie</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Boogie Bomb_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatifs",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positifs",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
                 "t": "Globalement, que pensez-vous des <keyword>bandages</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
@@ -6724,301 +4654,6 @@
             "a"
           ],
           "id": "190619_ITEMC_Bandage_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatives",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positives",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous des versions épique et légendaire du <keyword>fusil d'infanterie</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Infantry Rifle_EandL_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>fusil d'infanterie</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Infantry Rifle_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>pistolet à silex</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Flintknock Pistol_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>fusil d'assaut lourd</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Heavy Assault Rifle_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>fusil de sniper lourd</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Heavy Sniper Rifle_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -7125,65 +4760,6 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Globalement, que pensez-vous du <keyword>pistolet à silencieux</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Suppressed Pistol_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
                 "t": "Globalement, que pensez-vous du <keyword>pistolet</> dans Fortnite Battle Royale ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
@@ -7196,65 +4772,6 @@
             "a"
           ],
           "id": "190619_ITEMC_Pistol_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>bourlingueur</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Hand Cannon_FNBR",
           "po": {
             "_type": "Player Survey - Message"
           }
@@ -7344,183 +4861,6 @@
                 "s": "rating",
                 "c": [
                   {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>lance-grenades</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Grenade Launcher_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>fusil d'assaut à lunette</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Scoped Assault Rifle_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous du <keyword>minigun</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Minigun_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
                     "t": "Très négatives",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
@@ -7535,65 +4875,6 @@
                   },
                   {
                     "t": "Très positives",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, que pensez-vous des versions épiques et légendaires du <keyword>fusil d'assaut</> dans Fortnite Battle Royale ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190619_ITEMC_Assault Rifle_EandL_FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
@@ -7681,7 +4962,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "BlockVisitHeartbeats"
+                "id": "FNBR_Creative_Heartbeats_2000_30d"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -7698,7 +4979,7 @@
                 "s": "rating",
                 "c": [
                   {
-                    "t": "Très négatif",
+                    "t": "Très négative",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
@@ -7711,152 +4992,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, vous trouvez que l'ajout du bloc actuel dans le jeu est...",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            },
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Bien pire",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Bien mieux",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Par rapport aux précédents Blocs auxquels vous avez joué, trouvez-vous que le Bloc actuel est bien pire (1), pareil (3) ou bien mieux (5) ?",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190523TheBlockSentiment-FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  }
-                ],
-                "t": "Globalement, vous trouvez que l'ajout des points chauds dans le jeu est...",
-                "_type": "Player Survey - Multiple Choice Question"
-              },
-              "_type": "Player Survey - Question Container"
-            }
-          ],
-          "r": "rm",
-          "t": "Votre avis nous intéresse !",
-          "sg": [
-            "a"
-          ],
-          "id": "190516HotSpots-FNBR",
-          "po": {
-            "_type": "Player Survey - Message"
-          }
-        },
-        {
-          "rt": false,
-          "pr": {
-            "_type": "Player Survey - Message"
-          },
-          "c": [
-            {
-              "cg": {
-                "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
-              },
-              "_type": "Player Survey - Condition Container"
-            }
-          ],
-          "hidden": false,
-          "e": false,
-          "_type": "Player Survey - Survey",
-          "cm": {
-            "_type": "Player Survey - Message"
-          },
-          "q": [
-            {
-              "mc": {
-                "s": "rating",
-                "c": [
-                  {
-                    "t": "Très négatif",
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "_type": "Player Survey - Multiple Choice Question Choice"
-                  },
-                  {
-                    "t": "Très positif",
+                    "t": "Très positive",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
@@ -7885,7 +5021,7 @@
             {
               "cg": {
                 "_type": "Player Survey - Condition - Condition Group",
-                "id": "FNBR_Heartbeats_30dCD_SplitAt20"
+                "id": "FNBR_Creative_Heartbeats_2000_30d"
               },
               "_type": "Player Survey - Condition Container"
             }
@@ -8442,7 +5578,7 @@
                 "s": "rating",
                 "c": [
                   {
-                    "t": "Très négative",
+                    "t": "Très négatif",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
@@ -8455,7 +5591,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
-                    "t": "Très positive",
+                    "t": "Très positif",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
@@ -8486,7 +5622,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
-                "t": "Les commandes de construction sont-elles faciles à utiliser ?",
+                "t": "Les commandes de construction sont-elles faciles à utiliser ?",
                 "_type": "Player Survey - Multiple Choice Question"
               },
               "_type": "Player Survey - Question Container"
@@ -8528,7 +5664,7 @@
                 "s": "rating",
                 "c": [
                   {
-                    "t": "Très négative",
+                    "t": "Très négatif",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
@@ -8541,7 +5677,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
-                    "t": "Très positive",
+                    "t": "Très positif",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
@@ -8706,7 +5842,7 @@
                 "s": "rating",
                 "c": [
                   {
-                    "t": "Très négative",
+                    "t": "Très négatives",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
@@ -8719,7 +5855,7 @@
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   },
                   {
-                    "t": "Très positive",
+                    "t": "Très positives",
                     "_type": "Player Survey - Multiple Choice Question Choice"
                   }
                 ],
@@ -9960,8 +7096,9 @@
       "_type": "Player Survey - Survey Root"
     },
     "_title": "playersurvey",
-    "_activeDate": "2019-09-11T07:50:00Z",
-    "lastModified": "2019-09-23T15:19:21.058Z",
+    "_noIndex": false,
+    "_activeDate": "2019-10-15T07:50:00Z",
+    "lastModified": "2019-10-15T19:16:45.972Z",
     "_locale": "fr"
   },
   "creativeFeatures": {
@@ -9975,7 +7112,7 @@
   },
   "subgameinfo": {
     "battleroyale": {
-      "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/subgameinfo/BR/10BR_BlackMonday_SubGameSelectSubgameSelect-512x1024-461d74ca06add893d04bf2f3578a858af0810ba3.jpg",
+      "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/subgameinfo/BR/11BR_In-Game_Launch_Week1_SubgameSelect-512x1024-8b298ddfb13ca218af3f10017e4e989888212e9e.jpg",
       "color": "1164c1",
       "_type": "Subgame Info",
       "description": "JcJ à 100 joueurs",
@@ -9985,7 +7122,7 @@
       "standardMessageLine1": ""
     },
     "savetheworld": {
-      "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/subgameinfo/StW/10StW_InGame_MainStageQuinnSubgameSelect-512x1024-b968037523bab6304001fb7bf72d5fd8a22e3390.jpg",
+      "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/subgameinfo/StW/09_SubgameSelect_Default_StW-512x1024-e47f51e25cbe9943678b9221056a808e81da40e3.jpg",
       "color": "7615E9FF",
       "specialMessage": "",
       "_type": "Subgame Info",
@@ -9995,7 +7132,7 @@
     },
     "_title": "SubgameInfo",
     "creative": {
-      "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/subgameinfo/Creative/10BR_ZoneWars_In-Game_SubgameSelect-512x1024-a4f0ce98c755e1266bd382ce96e7cb3a19a49e64.jpg",
+      "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/subgameinfo/Creative/C2CM_Launch_In-Game_Subgame_PropHunt-512x1024-c84b714dc3c2cdf4ec9dc966074c0c53deef2dc9.jpg",
       "color": "13BDA1FF",
       "_type": "Subgame Info",
       "description": "Vos îles, vos amis, vos règles.",
@@ -10020,29 +7157,30 @@
       "_type": "Battle Royale News",
       "messages": [
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v10411/Tease-2-1024x512-d4735ddabecf6faf135e661c3e59747dbddb09dc.jpg",
-          "hidden": false,
-          "_type": "CommonUI Simple Message Base",
-          "title": "La fin est proche",
-          "body": "Demain.",
-          "spotlight": false
-        },
-        {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v10411/10BR_TheParadigm_MOTD-1024x512-fbf6eb56a1cc16ffaf4e95dbca99671cee5d397d.jpg",
-          "hidden": false,
-          "_type": "CommonUI Simple Message Base",
-          "adspace": "EXCLUSIF !",
-          "title": "Allégeance inconnue",
-          "body": "La nouvelle tenue à durée limitée Paradigme est disponible !",
-          "spotlight": false
-        },
-        {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v10411/MartialArts-1024x512-76d3b8576e091875d99feb9e5f7d82f53493df77.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v11/Chapter2-1024x512-0c75453468f7249e9e59ec3375ee76bea19b2a12.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "NOUVEAU !",
-          "title": "L'art du combat",
-          "body": "Obtenez la nouvelle emote Maître martial dans la boutique d'objets !",
+          "title": "Chapitre 2",
+          "body": "Partagez votre premier atterrissage du chapitre 2 avec le mot-clé #FirstDrop !",
+          "spotlight": true
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v11/Outcast-1024x512-f23f94158b76cd3ddf59757258bec95384245b3a.jpg",
+          "hidden": false,
+          "_type": "CommonUI Simple Message Base",
+          "adspace": "NOUVEAU !",
+          "title": "Ferrez le poisson",
+          "body": "La nouvelle tenue Chalutière et la nouvelle pioche Hameçons lourds sont disponibles !",
+          "spotlight": false
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v11/Zero-1024x512-d3d164ad0feeb1529f40c93214be74d2c34bcdcd.jpg",
+          "hidden": false,
+          "_type": "CommonUI Simple Message Base",
+          "adspace": "NOUVEAU !",
+          "title": "L'infini et le néant",
+          "body": "La nouvelle tenue Zéro et le nouveau revêtement Point zéro sont disponibles !",
           "spotlight": false
         },
         {
@@ -10053,15 +7191,6 @@
           "title": "Sécurisez votre compte",
           "body": "Les sites proposant des V-bucks gratuits sont de l'arnaque. Epic ne vous demandera jamais votre mot de passe. Activez l'authentification à deux facteurs !",
           "spotlight": false
-        },
-        {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/V10/Battlepass-1024x512-b917bb4938d548fb0fbc2c61440b0ef96b1f07dd.png",
-          "hidden": false,
-          "_type": "CommonUI Simple Message Base",
-          "adspace": "",
-          "title": "Passe de combat de la saison X",
-          "body": "Le Passe de combat de la saison X est disponible ! Jouez tout au long de la saison pour obtenir des tenues, des emotes, des revêtements et plus encore.",
-          "spotlight": false
         }
       ]
     },
@@ -10070,20 +7199,21 @@
     "style": "None",
     "_noIndex": false,
     "_activeDate": "2018-08-17T16:00:00Z",
-    "lastModified": "2019-10-12T18:08:15.992Z",
+    "lastModified": "2019-10-14T20:46:42.039Z",
     "_locale": "fr"
   },
   "dynamicbackgrounds": {
     "backgrounds": {
       "backgrounds": [
         {
-          "stage": "seasonx",
+          "backgroundimage": "https://cdn2.unrealengine.com/Fortnite%2Ffortnite-game%2Fdynamicbackgrounds%2FSeason11-128x128-da1e9eaaccc2431452dcaed365c34ec38bb56ac7.png",
+          "stage": "season11",
           "_type": "DynamicBackground",
           "key": "lobby"
         },
         {
-          "backgroundimage": "https://cdn2.unrealengine.com/Fortnite%2Ffortnite-game%2Flobby%2FT_Background_Summer-2048x1024-37957ac10d82d67eab41c7c87615102307fd9afa.png",
-          "stage": "default",
+          "backgroundimage": "https://cdn2.unrealengine.com/Fortnite%2Ffortnite-game%2Fdynamicbackgrounds%2FSeason11-128x128-da1e9eaaccc2431452dcaed365c34ec38bb56ac7.png",
+          "stage": "season11",
           "_type": "DynamicBackground",
           "key": "vault"
         }
@@ -10100,30 +7230,30 @@
       "_type": "Battle Royale News",
       "messages": [
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/creativenews/v1041/Meteor-1024x512-8216b64552c24a3c4557d5ea77f9df4571d0f05f.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/creativenews/v11/HauntedPrefabs-1024x512-1b25777c882a2c448f407c10df28e40cd9a14431.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "NOUVEAU !",
-          "title": "Galerie Météore",
-          "body": "Ajoutez ce signe de la fin des temps dans vos jeux !",
+          "title": "Préfabriqués hantés",
+          "body": "Créez vos propres jeux effrayants avec ces nouveaux préfabriqués hantés.",
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v1040/ZoneWarsLTMs-1024x512-3da5aeed44d56d5c1f19c4bd5bc2ad2a39abe805.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/creativenews/v11/Shoreline-1024x512-83675037625f36b1cb85c7bc0511155733dc19db.jpg",
           "hidden": false,
-          "messagetype": "sale",
           "_type": "CommonUI Simple Message Base",
-          "adspace": "CRÉATIONS DE LA COMMUNAUTÉ ",
-          "title": "Modes Guerre de zones",
-          "body": "Les Guerres de zones les plus populaires sont disponibles en tant que modes temporaires.",
+          "adspace": "NOUVEAU !",
+          "title": "Île côtière",
+          "body": "Une île verdoyante plate, bordée de plages de rêve.",
           "spotlight": false
         },
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/creativenews/v1041/BR06_MOTD_SpookyTeamLeader-1024x512-143f0a4edf2ec16351947612b750d8b10baae03d.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/creativenews/v11/Lock-1024x512-5d94f1884b67c57bf4bbe3116651918a0f5eb6a3.jpg",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "title": "Partagez vos créations effrayantes",
-          "body": "L'ambiance devient lugubre... Montrez-nous ce dont vous êtes capables ! Partagez vos créations effrayantes en utilisant le mot-clé #FortniteFright sur nos réseaux sociaux.",
+          "adspace": "NOUVEAU !",
+          "title": "Appareil de verrouillage",
+          "body": "Ce nouvel appareil vous permet d'ouvrir, de fermer, de verrouiller et de déverrouiller des portes avec des déclencheurs et des receveurs.",
           "spotlight": false
         }
       ]
@@ -10133,7 +7263,7 @@
     "style": "None",
     "_noIndex": false,
     "_activeDate": "2018-08-17T16:00:00Z",
-    "lastModified": "2019-10-07T17:17:43.979Z",
+    "lastModified": "2019-10-14T19:28:04.74Z",
     "_locale": "fr"
   },
   "_suggestedPrefetch": []
